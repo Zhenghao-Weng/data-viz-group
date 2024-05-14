@@ -1,0 +1,6648 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129627602,
+                    51.51308657
+                ]
+            },
+            "properties": {
+                "name": "Palace Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.224422616,
+                    51.49069334
+                ]
+            },
+            "properties": {
+                "name": "Eventim Apollo Hammersmith"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103612127,
+                    51.54433219
+                ]
+            },
+            "properties": {
+                "name": "Islington Assembly Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127219602,
+                    51.51065608
+                ]
+            },
+            "properties": {
+                "name": "Freed of London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.294982599,
+                    51.55229548
+                ]
+            },
+            "properties": {
+                "name": "Federation of Patidar Associations"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.105847779,
+                    51.53148185
+                ]
+            },
+            "properties": {
+                "name": "Old Red Lion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.307594201,
+                    51.4086431
+                ]
+            },
+            "properties": {
+                "name": "Rose Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.007621808,
+                    51.47946415
+                ]
+            },
+            "properties": {
+                "name": "Greenwich Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.130501429,
+                    51.59448347
+                ]
+            },
+            "properties": {
+                "name": "Alexandra Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.142654424,
+                    51.49577576
+                ]
+            },
+            "properties": {
+                "name": "Apollo Victoria Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.13149,
+                    51.55107
+                ]
+            },
+            "properties": {
+                "name": "The Arc Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.094106846,
+                    51.51996231
+                ]
+            },
+            "properties": {
+                "name": "Barbican Centre Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.209490815,
+                    51.48943219
+                ]
+            },
+            "properties": {
+                "name": "Barons Court Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.132754789,
+                    51.52506973
+                ]
+            },
+            "properties": {
+                "name": "Bloomsbury Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.065368543,
+                    51.51941799
+                ]
+            },
+            "properties": {
+                "name": "Brady Arts & Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.136540351,
+                    51.46586805
+                ]
+            },
+            "properties": {
+                "name": "Bread and Roses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.07777,
+                    51.53555
+                ]
+            },
+            "properties": {
+                "name": "Broadway Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.157267874,
+                    51.49386601
+                ]
+            },
+            "properties": {
+                "name": "Cadogan Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126381824,
+                    51.51351139
+                ]
+            },
+            "properties": {
+                "name": "Cambridge Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.184236365,
+                    51.52103082
+                ]
+            },
+            "properties": {
+                "name": "Canal Cafe Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.124096963,
+                    51.50808822
+                ]
+            },
+            "properties": {
+                "name": "Charing Cross Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.173709262,
+                    51.54382562
+                ]
+            },
+            "properties": {
+                "name": "Hampstead Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.130896308,
+                    51.50638923
+                ]
+            },
+            "properties": {
+                "name": "ICA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.14022,
+                    51.51436
+                ]
+            },
+            "properties": {
+                "name": "London Palladium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131821282,
+                    51.47552393
+                ]
+            },
+            "properties": {
+                "name": "Lost Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.120111955,
+                    51.51142368
+                ]
+            },
+            "properties": {
+                "name": "Lyceum Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.080219224,
+                    51.61595447
+                ]
+            },
+            "properties": {
+                "name": "Millfield Arts Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.141751873,
+                    51.52503273
+                ]
+            },
+            "properties": {
+                "name": "New Diorama Theatre Broadgate (NDT)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127460405,
+                    51.51110956
+                ]
+            },
+            "properties": {
+                "name": "Noel Coward Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.108641889,
+                    51.56563594
+                ]
+            },
+            "properties": {
+                "name": "Park Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.117991055,
+                    51.51462706
+                ]
+            },
+            "properties": {
+                "name": "Peacock Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129554271,
+                    51.51452424
+                ]
+            },
+            "properties": {
+                "name": "Phoenix Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.135374572,
+                    51.51105578
+                ]
+            },
+            "properties": {
+                "name": "Piccadilly Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12368193,
+                    51.50696648
+                ]
+            },
+            "properties": {
+                "name": "Playhouse Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.219444297,
+                    51.56521058
+                ]
+            },
+            "properties": {
+                "name": "The Queen's Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.303844781,
+                    51.46212985
+                ]
+            },
+            "properties": {
+                "name": "Richmond Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.151898608,
+                    51.54323234
+                ]
+            },
+            "properties": {
+                "name": "Roundhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.122653705,
+                    51.51304711
+                ]
+            },
+            "properties": {
+                "name": "Royal Opera House - The Linbury Studio Theatre and Fo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.160555743,
+                    51.52489743
+                ]
+            },
+            "properties": {
+                "name": "Rudolf Steiner House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12086983,
+                    51.51016784
+                ]
+            },
+            "properties": {
+                "name": "Savoy Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126095341,
+                    51.51627657
+                ]
+            },
+            "properties": {
+                "name": "Shaftesbury Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12811024,
+                    51.52864677
+                ]
+            },
+            "properties": {
+                "name": "Shaw Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.098224093,
+                    51.49750075
+                ]
+            },
+            "properties": {
+                "name": "Southwark Playhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.102810177,
+                    51.53830316
+                ]
+            },
+            "properties": {
+                "name": "The King's Head Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.138922711,
+                    51.54809015
+                ]
+            },
+            "properties": {
+                "name": "The Lion and Unicorn Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.003185639,
+                    51.50292054
+                ]
+            },
+            "properties": {
+                "name": "The O2 Arena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.128617607,
+                    51.50959927
+                ]
+            },
+            "properties": {
+                "name": " Phoenix Arts Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08693312,
+                    51.53762241
+                ]
+            },
+            "properties": {
+                "name": "The Rosemary Branch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17751559,
+                    51.50126863
+                ]
+            },
+            "properties": {
+                "name": "The Royal Albert Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.079257609,
+                    51.50503006
+                ]
+            },
+            "properties": {
+                "name": "The Scoop at More London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.023382441,
+                    51.54263859
+                ]
+            },
+            "properties": {
+                "name": "The Yard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.120340416,
+                    51.51287517
+                ]
+            },
+            "properties": {
+                "name": "Theatre Royal Drury Lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.108099695,
+                    51.48690516
+                ]
+            },
+            "properties": {
+                "name": "White Bear Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.168329134,
+                    51.47883271
+                ]
+            },
+            "properties": {
+                "name": "Testbed 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.142261336,
+                    51.49871015
+                ]
+            },
+            "properties": {
+                "name": "The Other Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.428743514,
+                    51.5789453
+                ]
+            },
+            "properties": {
+                "name": "Winston Churchill Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.110011288,
+                    51.50406716
+                ]
+            },
+            "properties": {
+                "name": "Waterloo East Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127089782,
+                    51.49590593
+                ]
+            },
+            "properties": {
+                "name": "St John's Smith Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.300754207,
+                    51.40308542
+                ]
+            },
+            "properties": {
+                "name": "St John's Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131279929,
+                    51.50863453
+                ]
+            },
+            "properties": {
+                "name": "Theatre Royal Haymarket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.143355213,
+                    51.4884578
+                ]
+            },
+            "properties": {
+                "name": "Church Hall of the Church of the Holy Apostles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.124552288,
+                    51.51489401
+                ]
+            },
+            "properties": {
+                "name": "The Gallery at The Hospital Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.060530333,
+                    51.47893357
+                ]
+            },
+            "properties": {
+                "name": "Asylum, Caroline Gardens Chapel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.121548397,
+                    51.53499869
+                ]
+            },
+            "properties": {
+                "name": "Kings Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.115285479,
+                    51.50197488
+                ]
+            },
+            "properties": {
+                "name": "The Vaults"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.324626903,
+                    51.4280867
+                ]
+            },
+            "properties": {
+                "name": "Landmark Arts Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.067363425,
+                    51.469934
+                ]
+            },
+            "properties": {
+                "name": "The Bussey Building AKA The CLF Art Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12287,
+                    51.51006
+                ]
+            },
+            "properties": {
+                "name": "Adelphi Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13338199,
+                    51.5115007
+                ]
+            },
+            "properties": {
+                "name": "Apollo Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.105023493,
+                    51.51349205
+                ]
+            },
+            "properties": {
+                "name": "Bridewell Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09657156,
+                    51.50811239
+                ]
+            },
+            "properties": {
+                "name": "Shakespeare's Globe Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073275203,
+                    51.52435934
+                ]
+            },
+            "properties": {
+                "name": "Rich Mix"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.220223039,
+                    51.46128657
+                ]
+            },
+            "properties": {
+                "name": "Putney Arts Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.247269507,
+                    51.45610039
+                ]
+            },
+            "properties": {
+                "name": "The Michaelis Building, Froebel College, University o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.122665013,
+                    51.5166264
+                ]
+            },
+            "properties": {
+                "name": "Dragon Hall "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.118767654,
+                    51.52690563
+                ]
+            },
+            "properties": {
+                "name": "Westminster Kingsway College Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.02298261,
+                    51.51559973
+                ]
+            },
+            "properties": {
+                "name": "Poplar Union"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.094104542,
+                    51.51996227
+                ]
+            },
+            "properties": {
+                "name": "The Pit, Barbican Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.132740339,
+                    51.51450305
+                ]
+            },
+            "properties": {
+                "name": "Soho Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.152452465,
+                    51.51318751
+                ]
+            },
+            "properties": {
+                "name": "Danceworks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.066937948,
+                    51.51061305
+                ]
+            },
+            "properties": {
+                "name": "Wilton's Music Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.145241925,
+                    51.64443614
+                ]
+            },
+            "properties": {
+                "name": "Chicken Shed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.116833605,
+                    51.46019347
+                ]
+            },
+            "properties": {
+                "name": "Electric Brixton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.055477861,
+                    51.54552162
+                ]
+            },
+            "properties": {
+                "name": "Hackney Empire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.18990651,
+                    51.57360449
+                ]
+            },
+            "properties": {
+                "name": "ACS Dance Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126053013,
+                    51.46566493
+                ]
+            },
+            "properties": {
+                "name": "Landor Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.117572622,
+                    51.51463833
+                ]
+            },
+            "properties": {
+                "name": "The Saw Swee Hock Centre - Weston Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.110354203,
+                    51.55147327
+                ]
+            },
+            "properties": {
+                "name": "London Metropolitan University Graduate Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.075240584,
+                    51.55867744
+                ]
+            },
+            "properties": {
+                "name": "Kenneth More Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.384014347,
+                    51.59325663
+                ]
+            },
+            "properties": {
+                "name": "Pinner Village Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.024198973,
+                    51.49216667
+                ]
+            },
+            "properties": {
+                "name": "The Space"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.115741604,
+                    51.56142487
+                ]
+            },
+            "properties": {
+                "name": "Lift Islington - Platform Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.144275957,
+                    51.54059409
+                ]
+            },
+            "properties": {
+                "name": "Etcetera Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13226279,
+                    51.52088928
+                ]
+            },
+            "properties": {
+                "name": "Royal Academy of Dramatic Art (RADA)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.128304785,
+                    51.51336223
+                ]
+            },
+            "properties": {
+                "name": "Tristan Bates Theatre (TBT)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.298042371,
+                    51.48576836
+                ]
+            },
+            "properties": {
+                "name": "Watermans Arts Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.201365109,
+                    51.41914644
+                ]
+            },
+            "properties": {
+                "name": "New Wimbledon Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.106264614,
+                    51.52942925
+                ]
+            },
+            "properties": {
+                "name": "Sadler's Wells Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.411430057,
+                    51.5162788
+                ]
+            },
+            "properties": {
+                "name": "Uxbridge College"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.080639895,
+                    51.50384193
+                ]
+            },
+            "properties": {
+                "name": "Unicorn Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.197663819,
+                    51.50952947
+                ]
+            },
+            "properties": {
+                "name": "The Gate Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.096622223,
+                    51.52555915
+                ]
+            },
+            "properties": {
+                "name": "London Dance Academy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0799838,
+                    51.53177145
+                ]
+            },
+            "properties": {
+                "name": "Hoxton Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.074947347,
+                    51.54691315
+                ]
+            },
+            "properties": {
+                "name": "Arcola Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.207043433,
+                    51.4897635
+                ]
+            },
+            "properties": {
+                "name": "Bhavan Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.254641421,
+                    51.49569249
+                ]
+            },
+            "properties": {
+                "name": "The Tabard Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.039708154,
+                    51.53308803
+                ]
+            },
+            "properties": {
+                "name": "Chisenhale Dance Space"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.194975806,
+                    51.41973108
+                ]
+            },
+            "properties": {
+                "name": "Polka Theatre for Children"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.024066959,
+                    51.54744385
+                ]
+            },
+            "properties": {
+                "name": "Studio Wayne McGregor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.001743614,
+                    51.5427166
+                ]
+            },
+            "properties": {
+                "name": "Stratford Circus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.140672301,
+                    51.54692186
+                ]
+            },
+            "properties": {
+                "name": "Clean Break"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.304688388,
+                    51.50656547
+                ]
+            },
+            "properties": {
+                "name": "Lawrence Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.33995693,
+                    51.52655631
+                ]
+            },
+            "properties": {
+                "name": "Brentside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.101911697,
+                    51.50375651
+                ]
+            },
+            "properties": {
+                "name": "Union Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.363803161,
+                    51.60848854
+                ]
+            },
+            "properties": {
+                "name": "Harrow Arts Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.107291849,
+                    51.50327691
+                ]
+            },
+            "properties": {
+                "name": "The Young Vic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.084880748,
+                    51.56041201
+                ]
+            },
+            "properties": {
+                "name": "The Old Church , Stoke Newington"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.061484047,
+                    51.52636805
+                ]
+            },
+            "properties": {
+                "name": "Oxford House Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.014474247,
+                    51.403765
+                ]
+            },
+            "properties": {
+                "name": "Churchill Theatre: Magpie Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.037580749,
+                    51.59712882
+                ]
+            },
+            "properties": {
+                "name": "Higham Hill Hub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.117952415,
+                    51.51102034
+                ]
+            },
+            "properties": {
+                "name": "Dance Umbrella - Somerset House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10931616,
+                    51.35324715
+                ]
+            },
+            "properties": {
+                "name": "Harris Academy Purley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.31023884,
+                    51.6302468
+                ]
+            },
+            "properties": {
+                "name": "Candoco Dance Company"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073075943,
+                    51.58747503
+                ]
+            },
+            "properties": {
+                "name": "Bernie Grant Arts Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127548734,
+                    51.51211816
+                ]
+            },
+            "properties": {
+                "name": "Arts Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.118311294,
+                    51.51979404
+                ]
+            },
+            "properties": {
+                "name": "Conway Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.440386739,
+                    51.56218624
+                ]
+            },
+            "properties": {
+                "name": "Compass Theatre, Hillingdon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.020380851,
+                    51.4452943
+                ]
+            },
+            "properties": {
+                "name": "The Broadway Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.068021085,
+                    51.48949713
+                ]
+            },
+            "properties": {
+                "name": "The Tramshed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129641703,
+                    51.51696266
+                ]
+            },
+            "properties": {
+                "name": "Dominion Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.121673379,
+                    51.54876851
+                ]
+            },
+            "properties": {
+                "name": "Pleasance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.01904,
+                    51.48022
+                ]
+            },
+            "properties": {
+                "name": "Trinity Laban / Laban Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07398,
+                    51.55579
+                ]
+            },
+            "properties": {
+                "name": "Foulden Works"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.079102613,
+                    51.52667619
+                ]
+            },
+            "properties": {
+                "name": "Shoreditch Town Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0107391,
+                    51.47806302
+                ]
+            },
+            "properties": {
+                "name": "Greenwich Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.039076935,
+                    51.45363918
+                ]
+            },
+            "properties": {
+                "name": "Brockley Jack Studio Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.007171472,
+                    51.48358702
+                ]
+            },
+            "properties": {
+                "name": "King Charles Court, Old Royal Naval College (Trinity "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.072230154,
+                    51.51668037
+                ]
+            },
+            "properties": {
+                "name": "Artsadmin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.149337866,
+                    51.53810212
+                ]
+            },
+            "properties": {
+                "name": "Cecil Sharp House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.041215197,
+                    51.51325269
+                ]
+            },
+            "properties": {
+                "name": "Half Moon Young People's Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076811706,
+                    51.53279852
+                ]
+            },
+            "properties": {
+                "name": "Graeae Theatre Company Bradbury Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.169480819,
+                    51.52449748
+                ]
+            },
+            "properties": {
+                "name": "Cockpit Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.094467554,
+                    51.50466098
+                ]
+            },
+            "properties": {
+                "name": "Menier Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.002867702,
+                    51.57606761
+                ]
+            },
+            "properties": {
+                "name": "Expressive Arts Leyton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.133794809,
+                    51.51127346
+                ]
+            },
+            "properties": {
+                "name": "Lyric Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.145404162,
+                    51.57668107
+                ]
+            },
+            "properties": {
+                "name": "Jacksons Lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.176699509,
+                    51.61281644
+                ]
+            },
+            "properties": {
+                "name": "Arts Depot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13256009,
+                    51.52066919
+                ]
+            },
+            "properties": {
+                "name": "RADA Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.009627334,
+                    51.46437941
+                ]
+            },
+            "properties": {
+                "name": "Blackheath Halls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.01894751,
+                    51.38893001
+                ]
+            },
+            "properties": {
+                "name": "Langley Park Centre for the Performing Arts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10284236,
+                    51.62419102
+                ]
+            },
+            "properties": {
+                "name": "Intimate Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.001000881,
+                    51.54255806
+                ]
+            },
+            "properties": {
+                "name": "Theatre Royal, Stratford East"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09553,
+                    51.37227
+                ]
+            },
+            "properties": {
+                "name": "Fairfield Hall (closed for refurbishment)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.244376348,
+                    51.43808068
+                ]
+            },
+            "properties": {
+                "name": "Newlands Community Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.118862085,
+                    51.51307629
+                ]
+            },
+            "properties": {
+                "name": "Aldwych Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.116902823,
+                    51.52493328
+                ]
+            },
+            "properties": {
+                "name": "London Welsh Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113523269,
+                    51.50617404
+                ]
+            },
+            "properties": {
+                "name": "Rambert"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082758591,
+                    51.47449519
+                ]
+            },
+            "properties": {
+                "name": "Theatre Peckham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.069877256,
+                    51.4748743
+                ]
+            },
+            "properties": {
+                "name": "Mountview Theatre School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.105329064,
+                    51.49606
+                ]
+            },
+            "properties": {
+                "name": " Siobhan Davies Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.049153611,
+                    51.49780959
+                ]
+            },
+            "properties": {
+                "name": "Canada Water Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082550204,
+                    51.52755809
+                ]
+            },
+            "properties": {
+                "name": "National Circus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.150365124,
+                    51.5717955
+                ]
+            },
+            "properties": {
+                "name": "Upstairs at the Gatehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.142413708,
+                    51.46375804
+                ]
+            },
+            "properties": {
+                "name": "Omnibus Arts Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.138423624,
+                    51.52640081
+                ]
+            },
+            "properties": {
+                "name": "Camden People's Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.101094936,
+                    51.37216106
+                ]
+            },
+            "properties": {
+                "name": "Theatre Utopia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.200005991,
+                    51.54331474
+                ]
+            },
+            "properties": {
+                "name": "Kiln Theatre "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10587919,
+                    51.52968382
+                ]
+            },
+            "properties": {
+                "name": "Lilian Baylis Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.109546045,
+                    51.4804897
+                ]
+            },
+            "properties": {
+                "name": "Flow Dance London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.128401995,
+                    51.52750935
+                ]
+            },
+            "properties": {
+                "name": "The Place Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127615185,
+                    51.50663365
+                ]
+            },
+            "properties": {
+                "name": "Trafalgar Studios (previously the Whitehall)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.027409247,
+                    51.4778771
+                ]
+            },
+            "properties": {
+                "name": "The Albany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.122476552,
+                    51.51034645
+                ]
+            },
+            "properties": {
+                "name": "Vaudeville Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.108453861,
+                    51.52322362
+                ]
+            },
+            "properties": {
+                "name": "Theatre Delicatessen (Guardian House)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.042683326,
+                    51.55026393
+                ]
+            },
+            "properties": {
+                "name": "Chat's Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.075864571,
+                    51.53679364
+                ]
+            },
+            "properties": {
+                "name": "TripSpace Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13200693,
+                    51.50812453
+                ]
+            },
+            "properties": {
+                "name": "Her Majesty's Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.223746535,
+                    51.50548497
+                ]
+            },
+            "properties": {
+                "name": "West London School of Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.134678304,
+                    51.53549592
+                ]
+            },
+            "properties": {
+                "name": "Theatro Technis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.309656624,
+                    51.51170889
+                ]
+            },
+            "properties": {
+                "name": "Questor's Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.18448,
+                    51.55083
+                ]
+            },
+            "properties": {
+                "name": "JW3 (Jewish Community Centre London)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.130073873,
+                    51.5113401
+                ]
+            },
+            "properties": {
+                "name": "Leicester Square Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.188430425,
+                    51.44217585
+                ]
+            },
+            "properties": {
+                "name": "Tara Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.201881407,
+                    51.51696816
+                ]
+            },
+            "properties": {
+                "name": "The Tabernacle Trust"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.421800756,
+                    51.5210498
+                ]
+            },
+            "properties": {
+                "name": "Beck Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.037193751,
+                    51.45526234
+                ]
+            },
+            "properties": {
+                "name": "Rivoli Ballroom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.083377075,
+                    51.52787925
+                ]
+            },
+            "properties": {
+                "name": "Courtyard Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.301706458,
+                    51.46347521
+                ]
+            },
+            "properties": {
+                "name": "Studio K, Richmond Fitness Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08487465,
+                    51.519961
+                ]
+            },
+            "properties": {
+                "name": "Theatre Deli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.068609625,
+                    51.489729
+                ]
+            },
+            "properties": {
+                "name": "The Tramshed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.037748523,
+                    51.480557
+                ]
+            },
+            "properties": {
+                "name": "Greenwich Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.061743352,
+                    51.476408
+                ]
+            },
+            "properties": {
+                "name": "AMP Gallery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.054053272,
+                    51.47878
+                ]
+            },
+            "properties": {
+                "name": "AMP Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07514,
+                    51.40014
+                ]
+            },
+            "properties": {
+                "name": "Stanley Arts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.098428876,
+                    51.480039
+                ]
+            },
+            "properties": {
+                "name": "Blue Elephant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11618744,
+                    51.505864
+                ]
+            },
+            "properties": {
+                "name": "Southbank Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12796482,
+                    51.522977
+                ]
+            },
+            "properties": {
+                "name": "20 Bedford Way"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.072315085,
+                    51.530654
+                ]
+            },
+            "properties": {
+                "name": "Folklore Hoxton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12629557,
+                    51.509911
+                ]
+            },
+            "properties": {
+                "name": "London Coliseum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13965084,
+                    51.588142
+                ]
+            },
+            "properties": {
+                "name": "New London Performing Arts Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.24309943,
+                    51.615382
+                ]
+            },
+            "properties": {
+                "name": "NW7 Hub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.017112899,
+                    51.504762
+                ]
+            },
+            "properties": {
+                "name": "Silver Building (Projekt)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.054290569,
+                    51.491814
+                ]
+            },
+            "properties": {
+                "name": "Dilston Gallery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12833025,
+                    51.513361
+                ]
+            },
+            "properties": {
+                "name": "Seven Dials Playhouse "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00886,
+                    51.53189
+                ]
+            },
+            "properties": {
+                "name": "East London Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.006426868,
+                    51.512769
+                ]
+            },
+            "properties": {
+                "name": "National Ballet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.080289716,
+                    51.530484
+                ]
+            },
+            "properties": {
+                "name": "Studio 3 Arts "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.214005169,
+                    51.49186609
+                ]
+            },
+            "properties": {
+                "name": "West London College"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17963759,
+                    51.48164362
+                ]
+            },
+            "properties": {
+                "name": "Chelsea Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.166303379,
+                    51.52533462
+                ]
+            },
+            "properties": {
+                "name": "Greenside Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.221273338,
+                    51.58159506
+                ]
+            },
+            "properties": {
+                "name": "Havering College"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.177296442,
+                    51.61634745
+                ]
+            },
+            "properties": {
+                "name": "Innovation Dance Studios Finchley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.132370401,
+                    51.5485436
+                ]
+            },
+            "properties": {
+                "name": "Kentish Town Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.124509806,
+                    51.52750115
+                ]
+            },
+            "properties": {
+                "name": "One KX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10198168,
+                    51.5214824
+                ]
+            },
+            "properties": {
+                "name": "BGM Entertainment. Address: The Basement, 73 St John "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.094264681,
+                    51.50434302
+                ]
+            },
+            "properties": {
+                "name": "Omeara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.312403174,
+                    51.41315475
+                ]
+            },
+            "properties": {
+                "name": "Kellys Dance Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.005091487,
+                    51.51193048
+                ]
+            },
+            "properties": {
+                "name": "English National Ballet "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.294982599,
+                    51.55229548
+                ]
+            },
+            "properties": {
+                "name": "Patidar House Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.105847779,
+                    51.53148185
+                ]
+            },
+            "properties": {
+                "name": "Old Red Lion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.095862668,
+                    51.48986355
+                ]
+            },
+            "properties": {
+                "name": "Abacus Arts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.068762397,
+                    51.49409739
+                ]
+            },
+            "properties": {
+                "name": "Academy Performing Arts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.114176555,
+                    51.48799223
+                ]
+            },
+            "properties": {
+                "name": "Alford House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.081993244,
+                    51.45478129
+                ]
+            },
+            "properties": {
+                "name": "Alleyn's School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.070738785,
+                    51.48207971
+                ]
+            },
+            "properties": {
+                "name": "Anatomie Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.083228404,
+                    51.41806561
+                ]
+            },
+            "properties": {
+                "name": "Antenna Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.032611893,
+                    51.52830003
+                ]
+            },
+            "properties": {
+                "name": "Barking Road Community Centre: J?\u00ee?\u00e1?\u00f1s Dance Factory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.298258301,
+                    51.4130041
+                ]
+            },
+            "properties": {
+                "name": "Ballet Boyz  - Studio 52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.128296802,
+                    51.54869451
+                ]
+            },
+            "properties": {
+                "name": "The Basement Dance Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.079250559,
+                    51.5187111
+                ]
+            },
+            "properties": {
+                "name": "Bishopsgate Institute"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.110707061,
+                    51.45865602
+                ]
+            },
+            "properties": {
+                "name": "Brixton Community Base"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05922195,
+                    51.48566555
+                ]
+            },
+            "properties": {
+                "name": "BTS Project"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.048590555,
+                    51.49914132
+                ]
+            },
+            "properties": {
+                "name": "Canada Water Studios Ltd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.212172083,
+                    51.35514001
+                ]
+            },
+            "properties": {
+                "name": "The Chatsworth Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.034346311,
+                    51.39213619
+                ]
+            },
+            "properties": {
+                "name": "Chantry Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.095352756,
+                    51.54180622
+                ]
+            },
+            "properties": {
+                "name": "City Dance Academy  - THE IVORIES STUDIO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.054803845,
+                    51.55118481
+                ]
+            },
+            "properties": {
+                "name": "Clarence Mews : Studio Space"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.007030376,
+                    51.54925262
+                ]
+            },
+            "properties": {
+                "name": "Harris Academy Chobham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.034195035,
+                    51.55343146
+                ]
+            },
+            "properties": {
+                "name": "Concorde Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.024277123,
+                    51.47770742
+                ]
+            },
+            "properties": {
+                "name": "Deptford Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.199502938,
+                    51.48115895
+                ]
+            },
+            "properties": {
+                "name": "Dance Attic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078761295,
+                    51.53614877
+                ]
+            },
+            "properties": {
+                "name": "Dance Research Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.016407564,
+                    51.40228393
+                ]
+            },
+            "properties": {
+                "name": "Dance Box Bromley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.139239584,
+                    51.52618894
+                ]
+            },
+            "properties": {
+                "name": "Old Diorama Arts Centre "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.330843093,
+                    51.50062773
+                ]
+            },
+            "properties": {
+                "name": "Elthorne Park High School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.183407032,
+                    51.46505672
+                ]
+            },
+            "properties": {
+                "name": "bbo Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10353452,
+                    51.46083334
+                ]
+            },
+            "properties": {
+                "name": "Evelyn Grace Academy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.121756944,
+                    51.56635036
+                ]
+            },
+            "properties": {
+                "name": "The Factory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.101551422,
+                    51.50133162
+                ]
+            },
+            "properties": {
+                "name": "Glasshill Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.066296162,
+                    51.5543425
+                ]
+            },
+            "properties": {
+                "name": "Hackney Showroom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.007113696,
+                    51.45187721
+                ]
+            },
+            "properties": {
+                "name": "Hither Green Dance Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.098439231,
+                    51.48956364
+                ]
+            },
+            "properties": {
+                "name": "Husky Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.313832651,
+                    51.52622881
+                ]
+            },
+            "properties": {
+                "name": "Innovation Dance Studios, Ealing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.099093114,
+                    51.50362093
+                ]
+            },
+            "properties": {
+                "name": "Jerwood Space"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07337388,
+                    51.47796737
+                ]
+            },
+            "properties": {
+                "name": "Kelechnekoff Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.046154476,
+                    51.44193176
+                ]
+            },
+            "properties": {
+                "name": "Kemble House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05536,
+                    51.50057
+                ]
+            },
+            "properties": {
+                "name": "London Bubble"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.136966609,
+                    51.46105474
+                ]
+            },
+            "properties": {
+                "name": "Love Dance Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126338658,
+                    51.51456285
+                ]
+            },
+            "properties": {
+                "name": "The Meeting Rooms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.056199157,
+                    51.59190845
+                ]
+            },
+            "properties": {
+                "name": "Mill Mead Rehearsal Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.114970978,
+                    51.56052222
+                ]
+            },
+            "properties": {
+                "name": "Fourth Monkey "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.065694614,
+                    51.49073887
+                ]
+            },
+            "properties": {
+                "name": "Millenium Performing Arts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.139625056,
+                    51.58814492
+                ]
+            },
+            "properties": {
+                "name": "New London Performing Arts Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.170730754,
+                    51.46522837
+                ]
+            },
+            "properties": {
+                "name": "Off The Rails"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.092912164,
+                    51.49261665
+                ]
+            },
+            "properties": {
+                "name": "OMJ24 CREATIVE SPACE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.178432859,
+                    51.46740759
+                ]
+            },
+            "properties": {
+                "name": "Price Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.091602726,
+                    51.56180574
+                ]
+            },
+            "properties": {
+                "name": "Isaac Newton Academy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17507667,
+                    51.47430671
+                ]
+            },
+            "properties": {
+                "name": "Royal Academy of Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.200170735,
+                    51.52306591
+                ]
+            },
+            "properties": {
+                "name": "Paddington Arts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.090699665,
+                    51.52102043
+                ]
+            },
+            "properties": {
+                "name": "Pole People & Dance Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.114613672,
+                    51.56707204
+                ]
+            },
+            "properties": {
+                "name": "London School of Capoeira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.125372442,
+                    51.50763226
+                ]
+            },
+            "properties": {
+                "name": "Raindance Rehearsal Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.102997455,
+                    51.43454753
+                ]
+            },
+            "properties": {
+                "name": "The Shala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07149557,
+                    51.55282748
+                ]
+            },
+            "properties": {
+                "name": "St Barnabas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.121365609,
+                    51.4528921
+                ]
+            },
+            "properties": {
+                "name": "Studio B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.147463783,
+                    51.62293183
+                ]
+            },
+            "properties": {
+                "name": "Studio 45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09864396,
+                    51.50451752
+                ]
+            },
+            "properties": {
+                "name": "Studio 68"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.043384487,
+                    51.39012657
+                ]
+            },
+            "properties": {
+                "name": "Studio 74 LTD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.19562163,
+                    51.37797068
+                ]
+            },
+            "properties": {
+                "name": "Sutton Dance Academy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.190039546,
+                    51.43756211
+                ]
+            },
+            "properties": {
+                "name": "SW19 Rehearsal studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.162612043,
+                    51.517151
+                ]
+            },
+            "properties": {
+                "name": "Sylvia Young Theatre Group"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.062495764,
+                    51.58371267
+                ]
+            },
+            "properties": {
+                "name": "The Annex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.252411694,
+                    51.49596064
+                ]
+            },
+            "properties": {
+                "name": "The Arts Educational London Schools Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05769,
+                    51.62428
+                ]
+            },
+            "properties": {
+                "name": "The Artzone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.091049036,
+                    51.50439855
+                ]
+            },
+            "properties": {
+                "name": "The Classrooms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103541677,
+                    51.54325194
+                ]
+            },
+            "properties": {
+                "name": "The Hope Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.030190591,
+                    51.47582853
+                ]
+            },
+            "properties": {
+                "name": "The London Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113990293,
+                    51.56016472
+                ]
+            },
+            "properties": {
+                "name": "Stockroom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.065011594,
+                    51.59279163
+                ]
+            },
+            "properties": {
+                "name": "The Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05497,
+                    51.43614
+                ]
+            },
+            "properties": {
+                "name": "Twist Class Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.209209793,
+                    51.42302561
+                ]
+            },
+            "properties": {
+                "name": "Wimbledon Dance Academy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127238497,
+                    51.42965878
+                ]
+            },
+            "properties": {
+                "name": "Streatham Youth and Community Trust"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.224139981,
+                    51.50574272
+                ]
+            },
+            "properties": {
+                "name": "West London School of Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.148836393,
+                    51.34799637
+                ]
+            },
+            "properties": {
+                "name": "Wallington High School for Girls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.095720482,
+                    51.4351669
+                ]
+            },
+            "properties": {
+                "name": "West Dulwich Health and Wellbeing Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.146861589,
+                    51.49612109
+                ]
+            },
+            "properties": {
+                "name": "Westminster St Peter's Eaton Square Primary School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.414128084,
+                    51.57342523
+                ]
+            },
+            "properties": {
+                "name": "Windmill Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.482750722,
+                    51.54855228
+                ]
+            },
+            "properties": {
+                "name": "Futinity UK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.101490894,
+                    51.45353404
+                ]
+            },
+            "properties": {
+                "name": "South London Dance Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.005437024,
+                    51.54996453
+                ]
+            },
+            "properties": {
+                "name": "Maryland Studioz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113670827,
+                    51.48244459
+                ]
+            },
+            "properties": {
+                "name": "Ovalhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.027293526,
+                    51.50890064
+                ]
+            },
+            "properties": {
+                "name": "Hatstand Circus Rehearsal Space"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.125131723,
+                    51.51341947
+                ]
+            },
+            "properties": {
+                "name": "Pineapple Dance Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129301863,
+                    51.51294648
+                ]
+            },
+            "properties": {
+                "name": "Stone Nest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.102743469,
+                    51.54475878
+                ]
+            },
+            "properties": {
+                "name": "Union Chapel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.124270325,
+                    51.53648107
+                ]
+            },
+            "properties": {
+                "name": "Central Saint Martins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.183465426,
+                    51.55125207
+                ]
+            },
+            "properties": {
+                "name": "Camden Arts Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.181648775,
+                    51.4734376
+                ]
+            },
+            "properties": {
+                "name": "Karen Hardy Dance studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.321764604,
+                    51.46182116
+                ]
+            },
+            "properties": {
+                "name": "Rambert School Studio Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.223383704,
+                    51.41508498
+                ]
+            },
+            "properties": {
+                "name": "Ursuline School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.077915791,
+                    51.50010756
+                ]
+            },
+            "properties": {
+                "name": "Ugly Duck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.128912273,
+                    51.43094452
+                ]
+            },
+            "properties": {
+                "name": "Vinters Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113164254,
+                    51.49890212
+                ]
+            },
+            "properties": {
+                "name": "Creation Box"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.119401396,
+                    51.36124226
+                ]
+            },
+            "properties": {
+                "name": "The Warehouse Dance and Fitness Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.045098174,
+                    51.38245296
+                ]
+            },
+            "properties": {
+                "name": "Bishop Justus Church of England School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.025341805,
+                    51.40833629
+                ]
+            },
+            "properties": {
+                "name": "Dance Company Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.042996736,
+                    51.51136698
+                ]
+            },
+            "properties": {
+                "name": "Cable Street Dance Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.108155534,
+                    51.5269418
+                ]
+            },
+            "properties": {
+                "name": "Urdang Academy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.341530616,
+                    51.45148243
+                ]
+            },
+            "properties": {
+                "name": "Richmond Upon Thames College"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.307809909,
+                    51.40591238
+                ]
+            },
+            "properties": {
+                "name": "Kingston University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.006276453,
+                    51.52684581
+                ]
+            },
+            "properties": {
+                "name": "3 Mills Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.043965071,
+                    51.4943765
+                ]
+            },
+            "properties": {
+                "name": "Hangar Art Trust"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.191948945,
+                    51.45656464
+                ]
+            },
+            "properties": {
+                "name": "Southside Ballroom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.132981338,
+                    51.46404348
+                ]
+            },
+            "properties": {
+                "name": "Sapphire Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.20966624,
+                    51.5316193
+                ]
+            },
+            "properties": {
+                "name": "Frame 2 Queens Park "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.154802128,
+                    51.46500578
+                ]
+            },
+            "properties": {
+                "name": "Battersea Spanish"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.015913616,
+                    51.49685588
+                ]
+            },
+            "properties": {
+                "name": "Club Baltimore Gym"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.130377827,
+                    51.51728914
+                ]
+            },
+            "properties": {
+                "name": "YMCA Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.181390376,
+                    51.54794663
+                ]
+            },
+            "properties": {
+                "name": "The O2 Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073337233,
+                    51.55123011
+                ]
+            },
+            "properties": {
+                "name": "JazzMAD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.065655375,
+                    51.51639219
+                ]
+            },
+            "properties": {
+                "name": "Cardboard Citizens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.095481917,
+                    51.50452458
+                ]
+            },
+            "properties": {
+                "name": "The Bridge "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.070746271,
+                    51.5351763
+                ]
+            },
+            "properties": {
+                "name": "Centre 151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103042176,
+                    51.52995272
+                ]
+            },
+            "properties": {
+                "name": "Urdang 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.232901653,
+                    51.53996598
+                ]
+            },
+            "properties": {
+                "name": "Capital City Academy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.30267477,
+                    51.46437949
+                ]
+            },
+            "properties": {
+                "name": "Richmond and Hillcroft Adult Community College"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.108501535,
+                    51.53250488
+                ]
+            },
+            "properties": {
+                "name": "Claremont Project Upper Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.106837354,
+                    51.5253558
+                ]
+            },
+            "properties": {
+                "name": "The Peel "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.142415676,
+                    51.49420724
+                ]
+            },
+            "properties": {
+                "name": "Frame Victoria "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.137121112,
+                    51.5184036
+                ]
+            },
+            "properties": {
+                "name": "Frame Fitzrovia "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.140521526,
+                    51.53718037
+                ]
+            },
+            "properties": {
+                "name": "Academy Mews Dance Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.147953308,
+                    51.5395281
+                ]
+            },
+            "properties": {
+                "name": "Colomba Camden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.115442558,
+                    51.51770663
+                ]
+            },
+            "properties": {
+                "name": "Colomba Holborn "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.102191142,
+                    51.46580262
+                ]
+            },
+            "properties": {
+                "name": "Arch 468 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.042498799,
+                    51.51759962
+                ]
+            },
+            "properties": {
+                "name": "Haileybury Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.042905956,
+                    51.57096877
+                ]
+            },
+            "properties": {
+                "name": "Gravity Circus Urban Venue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.119204506,
+                    51.53134606
+                ]
+            },
+            "properties": {
+                "name": "2 Northdown "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076380586,
+                    51.53310619
+                ]
+            },
+            "properties": {
+                "name": "For The Core "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.024787004,
+                    51.54417299
+                ]
+            },
+            "properties": {
+                "name": "American Musical Theatre Academy "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103700627,
+                    51.37377701
+                ]
+            },
+            "properties": {
+                "name": "The Croydon Dance Academy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073275203,
+                    51.52435934
+                ]
+            },
+            "properties": {
+                "name": "Rich Mix"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.220223039,
+                    51.46128657
+                ]
+            },
+            "properties": {
+                "name": "Putney Arts Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.247269507,
+                    51.45610039
+                ]
+            },
+            "properties": {
+                "name": "The Michaelis Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.122665013,
+                    51.5166264
+                ]
+            },
+            "properties": {
+                "name": "Dragon Hall "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.118767654,
+                    51.52690563
+                ]
+            },
+            "properties": {
+                "name": "Westminster Kingsway College Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.02298261,
+                    51.51559973
+                ]
+            },
+            "properties": {
+                "name": "Poplar Union"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.094104542,
+                    51.51996227
+                ]
+            },
+            "properties": {
+                "name": "The Pit, Barbican Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.132740339,
+                    51.51450305
+                ]
+            },
+            "properties": {
+                "name": "Soho Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.152452465,
+                    51.51318751
+                ]
+            },
+            "properties": {
+                "name": "Danceworks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.066937948,
+                    51.51061305
+                ]
+            },
+            "properties": {
+                "name": "Wilton's Music Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.145241925,
+                    51.64443614
+                ]
+            },
+            "properties": {
+                "name": "Chicken Shed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.116833605,
+                    51.46019347
+                ]
+            },
+            "properties": {
+                "name": "Electric Brixton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.055477861,
+                    51.54552162
+                ]
+            },
+            "properties": {
+                "name": "Hackney Empire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.18990651,
+                    51.57360449
+                ]
+            },
+            "properties": {
+                "name": "ACS Dance Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126053013,
+                    51.46566493
+                ]
+            },
+            "properties": {
+                "name": "Landor Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.117572622,
+                    51.51463833
+                ]
+            },
+            "properties": {
+                "name": "The Saw Swee Hock Centre - Weston Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.110354203,
+                    51.55147327
+                ]
+            },
+            "properties": {
+                "name": "London Metropolitan University Graduate Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.075240584,
+                    51.55867744
+                ]
+            },
+            "properties": {
+                "name": "Kenneth More Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.384014347,
+                    51.59325663
+                ]
+            },
+            "properties": {
+                "name": "Pinner Village Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.024198973,
+                    51.49216667
+                ]
+            },
+            "properties": {
+                "name": "The Space"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.115741604,
+                    51.56142487
+                ]
+            },
+            "properties": {
+                "name": "Lift Islington - Platform Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.144275957,
+                    51.54059409
+                ]
+            },
+            "properties": {
+                "name": "Etcetera Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13226279,
+                    51.52088928
+                ]
+            },
+            "properties": {
+                "name": "Royal Academy of Dramatic Art (RADA)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.128304785,
+                    51.51336223
+                ]
+            },
+            "properties": {
+                "name": "Tristan Bates Theatre (TBT)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.298042371,
+                    51.48576836
+                ]
+            },
+            "properties": {
+                "name": "Watermans Arts Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.201365109,
+                    51.41914644
+                ]
+            },
+            "properties": {
+                "name": "New Wimbledon Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.106264614,
+                    51.52942925
+                ]
+            },
+            "properties": {
+                "name": "Sadler's Wells Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.411430057,
+                    51.5162788
+                ]
+            },
+            "properties": {
+                "name": "Uxbridge College"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.080639895,
+                    51.50384193
+                ]
+            },
+            "properties": {
+                "name": "Unicorn Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.197663819,
+                    51.50952947
+                ]
+            },
+            "properties": {
+                "name": "The Gate Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.096622223,
+                    51.52555915
+                ]
+            },
+            "properties": {
+                "name": "London Dance Academy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0799838,
+                    51.53177145
+                ]
+            },
+            "properties": {
+                "name": "Hoxton Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.074947347,
+                    51.54691315
+                ]
+            },
+            "properties": {
+                "name": "Arcola Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.207043433,
+                    51.4897635
+                ]
+            },
+            "properties": {
+                "name": "Bhavan Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.254641421,
+                    51.49569249
+                ]
+            },
+            "properties": {
+                "name": "The Tabard Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.039708154,
+                    51.53308803
+                ]
+            },
+            "properties": {
+                "name": "Chisenhale Dance Space"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.194975806,
+                    51.41973108
+                ]
+            },
+            "properties": {
+                "name": "Polka Theatre for Children"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.024066959,
+                    51.54744385
+                ]
+            },
+            "properties": {
+                "name": "Studio Wayne McGregor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.001743614,
+                    51.5427166
+                ]
+            },
+            "properties": {
+                "name": "Stratford Circus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.140672301,
+                    51.54692186
+                ]
+            },
+            "properties": {
+                "name": "Clean Break"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.304688388,
+                    51.50656547
+                ]
+            },
+            "properties": {
+                "name": "West London University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.33995693,
+                    51.52655631
+                ]
+            },
+            "properties": {
+                "name": "Brentside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.101911697,
+                    51.50375651
+                ]
+            },
+            "properties": {
+                "name": "Union Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.363803161,
+                    51.60848854
+                ]
+            },
+            "properties": {
+                "name": "Harrow Arts Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.107291849,
+                    51.50327691
+                ]
+            },
+            "properties": {
+                "name": "The Young Vic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.084880748,
+                    51.56041201
+                ]
+            },
+            "properties": {
+                "name": "The Old Church , Stoke Newington"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.061484047,
+                    51.52636805
+                ]
+            },
+            "properties": {
+                "name": "Oxford House Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.014474247,
+                    51.403765
+                ]
+            },
+            "properties": {
+                "name": "Churchill Theatre: Magpie Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.037580749,
+                    51.59712882
+                ]
+            },
+            "properties": {
+                "name": "Higham Hill Hub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.117952415,
+                    51.51102034
+                ]
+            },
+            "properties": {
+                "name": "Dance Umbrella - Somerset House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10931616,
+                    51.35324715
+                ]
+            },
+            "properties": {
+                "name": "Harris Academy Purley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.31023884,
+                    51.6302468
+                ]
+            },
+            "properties": {
+                "name": "Candoco Dance Company"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073075943,
+                    51.58747503
+                ]
+            },
+            "properties": {
+                "name": "Bernie Grant Arts Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127548734,
+                    51.51211816
+                ]
+            },
+            "properties": {
+                "name": "Arts Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.118311294,
+                    51.51979404
+                ]
+            },
+            "properties": {
+                "name": "Conway Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.440386739,
+                    51.56218624
+                ]
+            },
+            "properties": {
+                "name": "Compass Theatre, Hillingdon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.020380851,
+                    51.4452943
+                ]
+            },
+            "properties": {
+                "name": "The Broadway Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.068021085,
+                    51.48949713
+                ]
+            },
+            "properties": {
+                "name": "The Tramshed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129641703,
+                    51.51696266
+                ]
+            },
+            "properties": {
+                "name": "Dominion Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.121673379,
+                    51.54876851
+                ]
+            },
+            "properties": {
+                "name": "Pleasance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.020503156,
+                    51.48005383
+                ]
+            },
+            "properties": {
+                "name": "Trinity Laban / Laban Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.072391878,
+                    51.55551305
+                ]
+            },
+            "properties": {
+                "name": "Foulden Works"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.079102613,
+                    51.52667619
+                ]
+            },
+            "properties": {
+                "name": "Shoreditch Town Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0107391,
+                    51.47806302
+                ]
+            },
+            "properties": {
+                "name": "Greenwich Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.039076935,
+                    51.45363918
+                ]
+            },
+            "properties": {
+                "name": "Brockley Jack Studio Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.007171472,
+                    51.48358702
+                ]
+            },
+            "properties": {
+                "name": "King Charles Court, Old Royal Naval College (Trinity "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.072230154,
+                    51.51668037
+                ]
+            },
+            "properties": {
+                "name": "Artsadmin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.149337866,
+                    51.53810212
+                ]
+            },
+            "properties": {
+                "name": "Cecil Sharp House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.041215197,
+                    51.51325269
+                ]
+            },
+            "properties": {
+                "name": "Half Moon Young People's Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076811706,
+                    51.53279852
+                ]
+            },
+            "properties": {
+                "name": "Graeae Theatre Company Bradbury Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.169480819,
+                    51.52449748
+                ]
+            },
+            "properties": {
+                "name": "Cockpit Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.094467554,
+                    51.50466098
+                ]
+            },
+            "properties": {
+                "name": "Menier Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.002867702,
+                    51.57606761
+                ]
+            },
+            "properties": {
+                "name": "Expressive Arts Leyton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.133794809,
+                    51.51127346
+                ]
+            },
+            "properties": {
+                "name": "Lyric Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.145404162,
+                    51.57668107
+                ]
+            },
+            "properties": {
+                "name": "Jacksons Lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.176699509,
+                    51.61281644
+                ]
+            },
+            "properties": {
+                "name": "Arts Depot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13256009,
+                    51.52066919
+                ]
+            },
+            "properties": {
+                "name": "RADA Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.009627334,
+                    51.46437941
+                ]
+            },
+            "properties": {
+                "name": "Blackheath Halls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.01894751,
+                    51.38893001
+                ]
+            },
+            "properties": {
+                "name": "Langley Park Centre for the Performing Arts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10284236,
+                    51.62419102
+                ]
+            },
+            "properties": {
+                "name": "Intimate Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.001000881,
+                    51.54255806
+                ]
+            },
+            "properties": {
+                "name": "Theatre Royal, Stratford East"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.095778074,
+                    51.37252439
+                ]
+            },
+            "properties": {
+                "name": "Fairfield Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.244376348,
+                    51.43808068
+                ]
+            },
+            "properties": {
+                "name": "Newlands Community Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.118862085,
+                    51.51307629
+                ]
+            },
+            "properties": {
+                "name": "Aldwych Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.116902823,
+                    51.52493328
+                ]
+            },
+            "properties": {
+                "name": "London Welsh Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113523269,
+                    51.50617404
+                ]
+            },
+            "properties": {
+                "name": "Rambert"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082758591,
+                    51.47449519
+                ]
+            },
+            "properties": {
+                "name": "Theatre Peckham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.069877256,
+                    51.4748743
+                ]
+            },
+            "properties": {
+                "name": "Mountview Theatre School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.105329064,
+                    51.49606
+                ]
+            },
+            "properties": {
+                "name": "Siobhan Davies Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.049153611,
+                    51.49780959
+                ]
+            },
+            "properties": {
+                "name": "Canada Water Culture Space"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082550204,
+                    51.52755809
+                ]
+            },
+            "properties": {
+                "name": "National Circus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.150365124,
+                    51.5717955
+                ]
+            },
+            "properties": {
+                "name": "Upstairs at the Gatehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.142413708,
+                    51.46375804
+                ]
+            },
+            "properties": {
+                "name": "Omnibus Arts Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.138423624,
+                    51.52640081
+                ]
+            },
+            "properties": {
+                "name": "Camden People's Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.101094936,
+                    51.37216106
+                ]
+            },
+            "properties": {
+                "name": "Theatre Utopia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.200005991,
+                    51.54331474
+                ]
+            },
+            "properties": {
+                "name": " Kiln Theatre "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10587919,
+                    51.52968382
+                ]
+            },
+            "properties": {
+                "name": "Lilian Baylis Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.109546045,
+                    51.4804897
+                ]
+            },
+            "properties": {
+                "name": "Flow Dance London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.128401995,
+                    51.52750935
+                ]
+            },
+            "properties": {
+                "name": "The Place Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127615185,
+                    51.50663365
+                ]
+            },
+            "properties": {
+                "name": "Trafalgar Studios (previously the Whitehall)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.027409247,
+                    51.4778771
+                ]
+            },
+            "properties": {
+                "name": "Albany Centre and Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.122476552,
+                    51.51034645
+                ]
+            },
+            "properties": {
+                "name": "Vaudeville Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.108453861,
+                    51.52322362
+                ]
+            },
+            "properties": {
+                "name": "Theatre Delicatessen (Guardian House)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.042683326,
+                    51.55026393
+                ]
+            },
+            "properties": {
+                "name": "Chat's Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.075864571,
+                    51.53679364
+                ]
+            },
+            "properties": {
+                "name": "TripSpace Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13200693,
+                    51.50812453
+                ]
+            },
+            "properties": {
+                "name": "Her Majesty's Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.223746535,
+                    51.50548497
+                ]
+            },
+            "properties": {
+                "name": "West London School of Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.134678304,
+                    51.53549592
+                ]
+            },
+            "properties": {
+                "name": "Theatro Technis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.309656624,
+                    51.51170889
+                ]
+            },
+            "properties": {
+                "name": "Questor's Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.18448,
+                    51.55083
+                ]
+            },
+            "properties": {
+                "name": "JW3 (Jewish Community Centre London)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.130073873,
+                    51.5113401
+                ]
+            },
+            "properties": {
+                "name": "Leicester Square Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.188430425,
+                    51.44217585
+                ]
+            },
+            "properties": {
+                "name": "Tara Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.201881407,
+                    51.51696816
+                ]
+            },
+            "properties": {
+                "name": "The Tabernacle Trust"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.421800756,
+                    51.5210498
+                ]
+            },
+            "properties": {
+                "name": "Beck Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.037193751,
+                    51.45526234
+                ]
+            },
+            "properties": {
+                "name": "Rivoli Ballroom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.083377075,
+                    51.52787925
+                ]
+            },
+            "properties": {
+                "name": "Courtyard Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.301706458,
+                    51.46347521
+                ]
+            },
+            "properties": {
+                "name": "Studio K, Richmond Fitness Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.063311957,
+                    51.52635163
+                ]
+            },
+            "properties": {
+                "name": "ONYX Dance Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05658,
+                    51.47487
+                ]
+            },
+            "properties": {
+                "name": "Anatomie Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.088839378,
+                    51.536122
+                ]
+            },
+            "properties": {
+                "name": "City Dance Academy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.092479079,
+                    51.56253
+                ]
+            },
+            "properties": {
+                "name": "Hackney Showroom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17957425,
+                    51.46648
+                ]
+            },
+            "properties": {
+                "name": "Royal Academy of Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08487465,
+                    51.519961
+                ]
+            },
+            "properties": {
+                "name": "Theatre Deli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.068609625,
+                    51.489729
+                ]
+            },
+            "properties": {
+                "name": "The Tramshed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.037748523,
+                    51.480557
+                ]
+            },
+            "properties": {
+                "name": "Greenwich Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.006426868,
+                    51.512769
+                ]
+            },
+            "properties": {
+                "name": "National Ballet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13878086,
+                    51.35934
+                ]
+            },
+            "properties": {
+                "name": "The Warehouse Dance and Fitness Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11110208,
+                    51.461917
+                ]
+            },
+            "properties": {
+                "name": "Brixton House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.46725746,
+                    51.550992
+                ]
+            },
+            "properties": {
+                "name": "Futunity UK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.085402557,
+                    51.50256
+                ]
+            },
+            "properties": {
+                "name": "The Artworks Classrooms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11597458,
+                    51.559213
+                ]
+            },
+            "properties": {
+                "name": "Stockroom "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16058095,
+                    51.524896
+                ]
+            },
+            "properties": {
+                "name": "Rudolf  Steiner House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.075329996,
+                    51.400257
+                ]
+            },
+            "properties": {
+                "name": "Stanley Arts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2876,
+                    51.48622
+                ]
+            },
+            "properties": {
+                "name": "Studio Kew "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.19739206,
+                    51.532724
+                ]
+            },
+            "properties": {
+                "name": "The Granville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.050843277,
+                    51.409465
+                ]
+            },
+            "properties": {
+                "name": "Duet Dance "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.19757,
+                    51.44463
+                ]
+            },
+            "properties": {
+                "name": "Aspire @ Southfields"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.047894289,
+                    51.525871
+                ]
+            },
+            "properties": {
+                "name": "Vatican Dance and Recording Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12296338,
+                    51.553804
+                ]
+            },
+            "properties": {
+                "name": "Islington Arts Factory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12653236,
+                    51.516785
+                ]
+            },
+            "properties": {
+                "name": "The Umbrella Rooms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12671995,
+                    51.516428
+                ]
+            },
+            "properties": {
+                "name": "Bloomsbury Central Baptist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076482648,
+                    51.512846
+                ]
+            },
+            "properties": {
+                "name": "David Game College"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.042710633,
+                    51.550263
+                ]
+            },
+            "properties": {
+                "name": "Chats Palace Arts Centre "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17686,
+                    51.61297
+                ]
+            },
+            "properties": {
+                "name": "artsdepot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05515,
+                    51.48354
+                ]
+            },
+            "properties": {
+                "name": "London Performance Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13356368,
+                    51.492509
+                ]
+            },
+            "properties": {
+                "name": "St Stephen's Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13877482,
+                    51.520181
+                ]
+            },
+            "properties": {
+                "name": "Fitztrovia Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.072959352,
+                    51.473519
+                ]
+            },
+            "properties": {
+                "name": "Shrewsbury House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.026088243,
+                    51.584048
+                ]
+            },
+            "properties": {
+                "name": "Harmony Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.24309943,
+                    51.615382
+                ]
+            },
+            "properties": {
+                "name": "NW7 Hub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.017112899,
+                    51.504762
+                ]
+            },
+            "properties": {
+                "name": "Silver Building (Projekt)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10204378,
+                    51.46619534
+                ]
+            },
+            "properties": {
+                "name": "Sunshine International Arts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13278042,
+                    51.525068
+                ]
+            },
+            "properties": {
+                "name": "Bloomsbury Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00886,
+                    51.53189
+                ]
+            },
+            "properties": {
+                "name": "East London Dance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.02396932,
+                    51.474104
+                ]
+            },
+            "properties": {
+                "name": "Kindred Yoga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08487465,
+                    51.519961
+                ]
+            },
+            "properties": {
+                "name": "NDT Broadgate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.054437649,
+                    51.54383
+                ]
+            },
+            "properties": {
+                "name": "808 Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.28468273,
+                    51.538754
+                ]
+            },
+            "properties": {
+                "name": "Pirate Studios - Wembley "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.026689225,
+                    51.54218
+                ]
+            },
+            "properties": {
+                "name": "Pirate Studios - Hackney "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.069067917,
+                    51.494442
+                ]
+            },
+            "properties": {
+                "name": "Woolwich Works "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.080289716,
+                    51.530484
+                ]
+            },
+            "properties": {
+                "name": "Studio 3 Arts "
+            }
+        }
+    ]
+}

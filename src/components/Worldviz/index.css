@@ -1,0 +1,28 @@
+.vizContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.mapAndChartContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+
+.mapContainer {
+    width: 70%;
+    height: 500px;
+    margin: 0;
+}
+
+@media (min-width: 768px) {
+    .mapContainer {
+        width: 900px;
+        height: 500px;
+    }
+}

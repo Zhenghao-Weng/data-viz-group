@@ -1,0 +1,1682 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11999002,
+                    51.581831
+                ]
+            },
+            "properties": {
+                "name": "Arthouse Crouch End"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09412869,
+                    51.519959
+                ]
+            },
+            "properties": {
+                "name": "Barbican Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11365137,
+                    51.504816
+                ]
+            },
+            "properties": {
+                "name": "BFI IMAX "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11597015,
+                    51.50694
+                ]
+            },
+            "properties": {
+                "name": "BFI Southbank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0743,
+                    51.55762
+                ]
+            },
+            "properties": {
+                "name": "Cineworld Illford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.40009244,
+                    51.55907
+                ]
+            },
+            "properties": {
+                "name": "Cineworld South Ruislip "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10807,
+                    51.59436
+                ]
+            },
+            "properties": {
+                "name": "Cineworld Wood Green"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13046,
+                    51.51081
+                ]
+            },
+            "properties": {
+                "name": "Cineworld Leicester Square "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13825614,
+                    51.46254
+                ]
+            },
+            "properties": {
+                "name": "Clapham Picturehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07207926,
+                    51.523609
+                ]
+            },
+            "properties": {
+                "name": "Close-Up Film Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12708544,
+                    51.514546
+                ]
+            },
+            "properties": {
+                "name": "Covent Garden Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1206717,
+                    51.581401
+                ]
+            },
+            "properties": {
+                "name": "Crouch End Picturehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.06883201,
+                    51.513817
+                ]
+            },
+            "properties": {
+                "name": "Curzon Aldgate "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12317399,
+                    51.52415
+                ]
+            },
+            "properties": {
+                "name": "Curzon Bloomsbury"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16738,
+                    51.48813
+                ]
+            },
+            "properties": {
+                "name": "Curzon Chelsea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.03540115,
+                    51.474144
+                ]
+            },
+            "properties": {
+                "name": "Curzon Goldsmiths"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.14813432,
+                    51.506562
+                ]
+            },
+            "properties": {
+                "name": "Curzon Mayfair"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10697369,
+                    51.508441
+                ]
+            },
+            "properties": {
+                "name": "Curzon Mondrian London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.30685176,
+                    51.459287
+                ]
+            },
+            "properties": {
+                "name": "Curzon Richmond"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13058,
+                    51.5127
+                ]
+            },
+            "properties": {
+                "name": "Curzon Soho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13683759,
+                    51.497714
+                ]
+            },
+            "properties": {
+                "name": "Curzon Victoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.02469115,
+                    51.474395
+                ]
+            },
+            "properties": {
+                "name": "Deptford Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07633579,
+                    51.456441
+                ]
+            },
+            "properties": {
+                "name": "East Dulwich Picturehouse & Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.20509019,
+                    51.515523
+                ]
+            },
+            "properties": {
+                "name": "Electric Cinema Portobello"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07393604,
+                    51.524359
+                ]
+            },
+            "properties": {
+                "name": "Electric Cinema Shoreditch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13230892,
+                    51.508757
+                ]
+            },
+            "properties": {
+                "name": "Empire Cinema Haymarket "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.02003,
+                    51.58495
+                ]
+            },
+            "properties": {
+                "name": "Empire Walthamstow "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.15652,
+                    51.52051
+                ]
+            },
+            "properties": {
+                "name": "Everyman Baker Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16607356,
+                    51.550718
+                ]
+            },
+            "properties": {
+                "name": "Everyman Belsize Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.01784306,
+                    51.506132
+                ]
+            },
+            "properties": {
+                "name": "Everyman Canary Wharf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17902839,
+                    51.556441
+                ]
+            },
+            "properties": {
+                "name": "Everyman Hampstead"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12738561,
+                    51.537446
+                ]
+            },
+            "properties": {
+                "name": "Everyman Kings Cross"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.18174976,
+                    51.527986
+                ]
+            },
+            "properties": {
+                "name": "Everyman Maida Vale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.14621733,
+                    51.589604
+                ]
+            },
+            "properties": {
+                "name": "Everyman Muswell Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10374609,
+                    51.536886
+                ]
+            },
+            "properties": {
+                "name": "Everyman Screen on the Green"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.19727249,
+                    51.508739
+                ]
+            },
+            "properties": {
+                "name": "Gate Picturehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0512395,
+                    51.521466
+                ]
+            },
+            "properties": {
+                "name": "Genesis Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00969721,
+                    51.479438
+                ]
+            },
+            "properties": {
+                "name": "Greenwich Picturehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05501405,
+                    51.544856
+                ]
+            },
+            "properties": {
+                "name": "Hackney Picturehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1346174,
+                    51.511159
+                ]
+            },
+            "properties": {
+                "name": "Ham Yard Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13112246,
+                    51.506409
+                ]
+            },
+            "properties": {
+                "name": "ICA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17819,
+                    51.50039
+                ]
+            },
+            "properties": {
+                "name": "Imperial College Union Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.18481686,
+                    51.550911
+                ]
+            },
+            "properties": {
+                "name": "JW3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08085215,
+                    51.497693
+                ]
+            },
+            "properties": {
+                "name": "Kino Bermondsey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.03140273,
+                    51.407108
+                ]
+            },
+            "properties": {
+                "name": "Odeon Beckenham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.14414366,
+                    51.53916
+                ]
+            },
+            "properties": {
+                "name": "Odeon Camden Town "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12826203,
+                    51.514322
+                ]
+            },
+            "properties": {
+                "name": "Odeon Covent Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.01274125,
+                    51.490575
+                ]
+            },
+            "properties": {
+                "name": "Odeon Greenwich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12147714,
+                    51.558717
+                ]
+            },
+            "properties": {
+                "name": "Odeon Holloway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.299556,
+                    51.411953
+                ]
+            },
+            "properties": {
+                "name": "Odeon Kingston"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.03726405,
+                    51.633191
+                ]
+            },
+            "properties": {
+                "name": "Odeon Lee Valley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13126921,
+                    51.509514
+                ]
+            },
+            "properties": {
+                "name": "Odeon Luxe Haymarket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.21394813,
+                    51.465174
+                ]
+            },
+            "properties": {
+                "name": "Odeon Putney"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.30558038,
+                    51.459412
+                ]
+            },
+            "properties": {
+                "name": "Odeon Richmond"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.02316798,
+                    51.594558
+                ]
+            },
+            "properties": {
+                "name": "Odeon South Woodford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.128057,
+                    51.43209
+                ]
+            },
+            "properties": {
+                "name": "Odeon Streatham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.04486,
+                    51.49605
+                ]
+            },
+            "properties": {
+                "name": "Odeon Surrey Quays"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17451068,
+                    51.542451
+                ]
+            },
+            "properties": {
+                "name": "Odeon Swiss Cottage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13245516,
+                    51.518219
+                ]
+            },
+            "properties": {
+                "name": "Odeon Tottenham Court Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.47561,
+                    51.54505
+                ]
+            },
+            "properties": {
+                "name": "Odeon Uxbridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.20489463,
+                    51.419983
+                ]
+            },
+            "properties": {
+                "name": "Odeon Wimbledon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.24078632,
+                    51.475211
+                ]
+            },
+            "properties": {
+                "name": "Olympic Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.06823258,
+                    51.470741
+                ]
+            },
+            "properties": {
+                "name": "Peckhamplex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16368621,
+                    51.588503
+                ]
+            },
+            "properties": {
+                "name": "Phoenix (East Finchley)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13357707,
+                    51.510872
+                ]
+            },
+            "properties": {
+                "name": "Picturehouse Central"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13019,
+                    51.51144
+                ]
+            },
+            "properties": {
+                "name": "Prince Charles Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.14336665,
+                    51.516792
+                ]
+            },
+            "properties": {
+                "name": "Regent Street Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07330181,
+                    51.524358
+                ]
+            },
+            "properties": {
+                "name": "Rich Mix"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07572474,
+                    51.549631
+                ]
+            },
+            "properties": {
+                "name": "Rio Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11464124,
+                    51.461272
+                ]
+            },
+            "properties": {
+                "name": "Ritzy Picturehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2178631,
+                    51.48589
+                ]
+            },
+            "properties": {
+                "name": "Riverside Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09782861,
+                    51.498617
+                ]
+            },
+            "properties": {
+                "name": "Sands Films Studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.08118208,
+                    51.526341
+                ]
+            },
+            "properties": {
+                "name": "Showcase Newham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13365382,
+                    51.513931
+                ]
+            },
+            "properties": {
+                "name": "Soho Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00148522,
+                    51.543051
+                ]
+            },
+            "properties": {
+                "name": "Stratford East Picturehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.04329,
+                    51.55129
+                ]
+            },
+            "properties": {
+                "name": "The Castle Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.22262169,
+                    51.537587
+                ]
+            },
+            "properties": {
+                "name": "The Lexi Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.20015978,
+                    51.542973
+                ]
+            },
+            "properties": {
+                "name": "Kiln Cinema (formerly Tricycle)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.28130951,
+                    51.525711
+                ]
+            },
+            "properties": {
+                "name": "Vue Acton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.19451553,
+                    51.480416
+                ]
+            },
+            "properties": {
+                "name": "Vue Cinema Fulham Broadway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10108585,
+                    51.372997
+                ]
+            },
+            "properties": {
+                "name": "Vue Croydon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12452606,
+                    51.378123
+                ]
+            },
+            "properties": {
+                "name": "Vue Croydon Purley Way"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.13575897,
+                    51.532095
+                ]
+            },
+            "properties": {
+                "name": "Vue Dagenham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.18141572,
+                    51.547944
+                ]
+            },
+            "properties": {
+                "name": "Vue Finchley Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.33896,
+                    51.58156
+                ]
+            },
+            "properties": {
+                "name": "Vue Harrow"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10622383,
+                    51.534165
+                ]
+            },
+            "properties": {
+                "name": "Vue Islington \n\n\n\n\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12955866,
+                    51.511519
+                ]
+            },
+            "properties": {
+                "name": "Vue West End Leicester Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17332068,
+                    51.603832
+                ]
+            },
+            "properties": {
+                "name": "Vue  Finchley North"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13449168,
+                    51.508945
+                ]
+            },
+            "properties": {
+                "name": "Vue Piccadilly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.18005111,
+                    51.574896
+                ]
+            },
+            "properties": {
+                "name": "Vue Romford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.22142571,
+                    51.507597
+                ]
+            },
+            "properties": {
+                "name": "Vue Westfield \n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00649,
+                    51.54366
+                ]
+            },
+            "properties": {
+                "name": "Vue Westfield Stratford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1089,
+                    51.59701
+                ]
+            },
+            "properties": {
+                "name": "Vue Wood Green"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.29806462,
+                    51.485768
+                ]
+            },
+            "properties": {
+                "name": "Watermans Art Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12955866,
+                    51.511519
+                ]
+            },
+            "properties": {
+                "name": "Empire Cinemas Walthamstow"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17942804,
+                    51.487152
+                ]
+            },
+            "properties": {
+                "name": "Cinema Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.20554,
+                    51.42033
+                ]
+            },
+            "properties": {
+                "name": "Curzon Wimbledon (HMV) "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.01486,
+                    51.39974
+                ]
+            },
+            "properties": {
+                "name": "Vue Bromley "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07807,
+                    51.52867
+                ]
+            },
+            "properties": {
+                "name": "TT Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12697,
+                    51.53766
+                ]
+            },
+            "properties": {
+                "name": "Everyman Kings Cross on the Corner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.36209,
+                    51.46967
+                ]
+            },
+            "properties": {
+                "name": "Cineworld Hounslow "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08375,
+                    51.52889
+                ]
+            },
+            "properties": {
+                "name": "Curzon Hoxton "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.14348,
+                    51.54224
+                ]
+            },
+            "properties": {
+                "name": "Curzon Camden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.22546,
+                    51.51069
+                ]
+            },
+            "properties": {
+                "name": "Electric Cinema White City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09223,
+                    51.50552
+                ]
+            },
+            "properties": {
+                "name": "Everyman Borough Yards"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08417,
+                    51.51936
+                ]
+            },
+            "properties": {
+                "name": "Everyman Broadgate    "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.18771,
+                    51.64651
+                ]
+            },
+            "properties": {
+                "name": "Everyman Barnet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17337,
+                    51.48541
+                ]
+            },
+            "properties": {
+                "name": "Everyman Chelsea "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07908,
+                    51.4191
+                ]
+            },
+            "properties": {
+                "name": "Everyman Crystal Palace  "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.05675,
+                    51.4506
+                ]
+            },
+            "properties": {
+                "name": "Vue Eltham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103324,
+                    51.433204
+                ]
+            },
+            "properties": {
+                "name": "West Norwood Library And Picturehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17938,
+                    51.48711
+                ]
+            },
+            "properties": {
+                "name": "Fulham Road Picturehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.30432,
+                    51.51272
+                ]
+            },
+            "properties": {
+                "name": "Ealing Project "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.14689,
+                    51.48268
+                ]
+            },
+            "properties": {
+                "name": "The Cinema in the Arches "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.15191,
+                    51.5149
+                ]
+            },
+            "properties": {
+                "name": "The Cinema at Selfridges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13034532,
+                    51.524687
+                ]
+            },
+            "properties": {
+                "name": "Birkbeck Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13505719,
+                    51.518387
+                ]
+            },
+            "properties": {
+                "name": "Charlotte Street Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17721712,
+                    51.494554
+                ]
+            },
+            "properties": {
+                "name": "Cine Lumiere"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.15028,
+                    51.45616
+                ]
+            },
+            "properties": {
+                "name": "Cineworld Bexleyheath"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.06090651,
+                    51.650084
+                ]
+            },
+            "properties": {
+                "name": "Cineworld Enfield "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.40459,
+                    51.44385
+                ]
+            },
+            "properties": {
+                "name": "Cineworld Feltham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17942804,
+                    51.487152
+                ]
+            },
+            "properties": {
+                "name": "Cineworld Fulham Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00449996,
+                    51.503018
+                ]
+            },
+            "properties": {
+                "name": "Cineworld The O2 Greenwich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.19342927,
+                    51.453961
+                ]
+            },
+            "properties": {
+                "name": "Cineworld Wandsworth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.28350333,
+                    51.556685
+                ]
+            },
+            "properties": {
+                "name": "Cineworld Wembley "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.02288175,
+                    51.507908
+                ]
+            },
+            "properties": {
+                "name": "Cineworld West India Quay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.099,
+                    51.37216
+                ]
+            },
+            "properties": {
+                "name": "David Lean Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10148353,
+                    51.465089
+                ]
+            },
+            "properties": {
+                "name": "Whirled Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.02037,
+                    51.44619
+                ]
+            },
+            "properties": {
+                "name": "Catford Mews "
+            }
+        }
+    ]
+}

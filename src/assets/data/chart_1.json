@@ -1,0 +1,134 @@
+[
+    {
+        "Year": "2010",
+        "category": {
+            "London creative industries": 468,
+            "London non-creative industries": 3884,
+            "London all industries total": 4365,
+            "All other regions creative industries": 1054,
+            "All other region non-creative industries": 24400,
+            "All other region all industries total": 25528
+        }
+    },
+    {
+        "Year": "2011",
+        "category": {
+            "London creative industries": 499,
+            "London non-creative industries": 3944,
+            "London all industries total": 4460,
+            "All other regions creative industries": 1063,
+            "All other region non-creative industries": 24477,
+            "All other region all industries total": 25614
+        }
+    },
+    {
+        "Year": "2012",
+        "category": {
+            "London creative industries": 515,
+            "London non-creative industries": 4043,
+            "London all industries total": 4580,
+            "All other regions creative industries": 1170,
+            "All other region non-creative industries": 24349,
+            "All other region all industries total": 25628
+        }
+    },
+    {
+        "Year": "2013",
+        "category": {
+            "London creative industries": 535,
+            "London non-creative industries": 4154,
+            "London all industries total": 4702,
+            "All other regions creative industries": 1182,
+            "All other region non-creative industries": 24682,
+            "All other region all industries total": 25937
+        }
+    },
+    {
+        "Year": "2014",
+        "category": {
+            "London creative industries": 582,
+            "London non-creative industries": 4299,
+            "London all industries total": 4904,
+            "All other regions creative industries": 1230,
+            "All other region non-creative industries": 25121,
+            "All other region all industries total": 26434
+        }
+    },
+    {
+        "Year": "2015",
+        "category": {
+            "London creative industries": 587,
+            "London non-creative industries": 4467,
+            "London all industries total": 5071,
+            "All other regions creative industries": 1291,
+            "All other region non-creative industries": 25579,
+            "All other region all industries total": 26955
+        }
+    },
+    {
+        "Year": "2016",
+        "category": {
+            "London creative industries": 624,
+            "London non-creative industries": 4591,
+            "London all industries total": 5226,
+            "All other regions creative industries": 1335,
+            "All other region non-creative industries": 25667,
+            "All other region all industries total": 27121
+        }
+    },
+    {
+        "Year": "2017",
+        "category": {
+            "London creative industries": 646,
+            "London non-creative industries": 4639,
+            "London all industries total": 5297,
+            "All other regions creative industries": 1350,
+            "All other region non-creative industries": 26011,
+            "All other region all industries total": 27490
+        }
+    },
+    {
+        "Year": "2018",
+        "category": {
+            "London creative industries": 699,
+            "London non-creative industries": 4665,
+            "London all industries total": 5381,
+            "All other regions creative industries": 1339,
+            "All other region non-creative industries": 26183,
+            "All other region all industries total": 27686
+        }
+    },
+    {
+        "Year": "2019",
+        "category": {
+            "London creative industries": 691,
+            "London non-creative industries": 4677,
+            "London all industries total": 5390,
+            "All other regions creative industries": 1408,
+            "All other region non-creative industries": 26515,
+            "All other region all industries total": 28031
+        }
+    },
+    {
+        "Year": "2020",
+        "category": {
+            "London creative industries": 763,
+            "London non-creative industries": 4696,
+            "London all industries total": 5476,
+            "All other regions creative industries": 1456,
+            "All other region non-creative industries": 26227,
+            "All other region all industries total": 27769
+        }
+    },
+    {
+        "Year": "2021",
+        "category": {
+            "London creative industries": 795,
+            "London non-creative industries": 4582,
+            "London all industries total": 5394,
+            "All other regions creative industries": 1537,
+            "All other region non-creative industries": 26069,
+            "All other region all industries total": 27688
+        }
+    }
+]

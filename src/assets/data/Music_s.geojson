@@ -1,0 +1,6999 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.222872173,
+                    51.50976106
+                ]
+            },
+            "properties": {
+                "name": "Exhibition\u00a0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.107588,
+                    51.463218
+                ]
+            },
+            "properties": {
+                "name": "Brixton East"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.029717,
+                    51.511317
+                ]
+            },
+            "properties": {
+                "name": "Jamboree"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.138338,
+                    51.534617
+                ]
+            },
+            "properties": {
+                "name": "Koko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.125076,
+                    51.534613
+                ]
+            },
+            "properties": {
+                "name": "Lafayette London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.067704,
+                    51.488574
+                ]
+            },
+            "properties": {
+                "name": "CC Music Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129379,
+                    51.515193
+                ]
+            },
+            "properties": {
+                "name": "Alleycat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073739,
+                    51.560101
+                ]
+            },
+            "properties": {
+                "name": "Stereo 92"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.174016,
+                    51.494621
+                ]
+            },
+            "properties": {
+                "name": "Boujis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.080444,
+                    51.527348
+                ]
+            },
+            "properties": {
+                "name": "Electricity Showrooms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.137251,
+                    51.516312
+                ]
+            },
+            "properties": {
+                "name": "Project"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.205791,
+                    51.519877
+                ]
+            },
+            "properties": {
+                "name": "Mode"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00256,
+                    51.54107
+                ]
+            },
+            "properties": {
+                "name": "Lunarattic Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.023137,
+                    51.542956
+                ]
+            },
+            "properties": {
+                "name": "Mother Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.083369,
+                    51.525967
+                ]
+            },
+            "properties": {
+                "name": "Victorian Vaults"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09142,
+                    51.574915
+                ]
+            },
+            "properties": {
+                "name": "Low Profile Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11311,
+                    51.453891
+                ]
+            },
+            "properties": {
+                "name": "B45 London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.317392,
+                    51.511212
+                ]
+            },
+            "properties": {
+                "name": "Club 181 West"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131581,
+                    51.510266
+                ]
+            },
+            "properties": {
+                "name": "Wyld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.013606,
+                    51.457451
+                ]
+            },
+            "properties": {
+                "name": "Bar Nuvo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.100888,
+                    51.537354
+                ]
+            },
+            "properties": {
+                "name": "Prague Bar Angel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.282724,
+                    51.558178
+                ]
+            },
+            "properties": {
+                "name": "OVO Arena Wembley (SSE)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.006379516,
+                    51.50149354
+                ]
+            },
+            "properties": {
+                "name": "The O2\u00a0Arena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.27792676,
+                    51.55552194
+                ]
+            },
+            "properties": {
+                "name": "Wembley Stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.016552,
+                    51.543296
+                ]
+            },
+            "properties": {
+                "name": "London Stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.224504,
+                    51.49084
+                ]
+            },
+            "properties": {
+                "name": "Eventim Apollo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.024756317,
+                    51.47694769
+                ]
+            },
+            "properties": {
+                "name": "Deptford Albany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073812,
+                    51.524231
+                ]
+            },
+            "properties": {
+                "name": "Rich Mix"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.116546,
+                    51.498452
+                ]
+            },
+            "properties": {
+                "name": "Iklectik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.023909639,
+                    51.41248263
+                ]
+            },
+            "properties": {
+                "name": "Ripley Arts Center (Bromley Arts Trust)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.362241914,
+                    51.60799057
+                ]
+            },
+            "properties": {
+                "name": "Harrow Arts Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131921,
+                    51.593642
+                ]
+            },
+            "properties": {
+                "name": "Alexandra Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.122145,
+                    51.534966
+                ]
+            },
+            "properties": {
+                "name": "Kings Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126963,
+                    51.496091
+                ]
+            },
+            "properties": {
+                "name": "St John's Smith Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.116304,
+                    51.506081
+                ]
+            },
+            "properties": {
+                "name": "Purcell Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.095804,
+                    51.372525
+                ]
+            },
+            "properties": {
+                "name": "Fairfield Halls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.116304,
+                    51.506081
+                ]
+            },
+            "properties": {
+                "name": "The Royal Festival Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.176568,
+                    51.501441
+                ]
+            },
+            "properties": {
+                "name": "The Royal Albert Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.090084713,
+                    51.5193739
+                ]
+            },
+            "properties": {
+                "name": "Barbican Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08983981,
+                    51.51936992
+                ]
+            },
+            "properties": {
+                "name": "Milton Court Barbican"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.167749266,
+                    51.4624427
+                ]
+            },
+            "properties": {
+                "name": "The Clapham Grand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.005358978,
+                    51.48303249
+                ]
+            },
+            "properties": {
+                "name": "Blackheath Halls - Trinity Laban Faculty Of Music"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.092372756,
+                    51.52464542
+                ]
+            },
+            "properties": {
+                "name": "LSO St. Luke's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.155689881,
+                    51.4933534
+                ]
+            },
+            "properties": {
+                "name": "Cadogan Hall Limited"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12287,
+                    51.513687
+                ]
+            },
+            "properties": {
+                "name": "Royal Opera House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.228592553,
+                    51.48924321
+                ]
+            },
+            "properties": {
+                "name": "The Hammersmith Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.013607,
+                    51.591158
+                ]
+            },
+            "properties": {
+                "name": "Walthamstow Assembly Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.141834,
+                    51.552153
+                ]
+            },
+            "properties": {
+                "name": "O2\u00a0Forum Kentish Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11489,
+                    51.46512
+                ]
+            },
+            "properties": {
+                "name": "O2 Academy Brixton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.105766,
+                    51.534827
+                ]
+            },
+            "properties": {
+                "name": "O2 Academy Islington"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078492461,
+                    51.52387021
+                ]
+            },
+            "properties": {
+                "name": "The Old Blue Last"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.080129,
+                    51.527631
+                ]
+            },
+            "properties": {
+                "name": "Troy Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.030464,
+                    51.475428
+                ]
+            },
+            "properties": {
+                "name": "Amersham Arms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13966635,
+                    51.53656609
+                ]
+            },
+            "properties": {
+                "name": "Blues Kitchen Camden (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.142146357,
+                    51.57587098
+                ]
+            },
+            "properties": {
+                "name": "The Boogaloo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.147698664,
+                    51.54261094
+                ]
+            },
+            "properties": {
+                "name": "The Camden Assembly Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.048614284,
+                    51.44100357
+                ]
+            },
+            "properties": {
+                "name": "Windmill Brixton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.059262,
+                    51.533155
+                ]
+            },
+            "properties": {
+                "name": "Oval Space"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.219813,
+                    51.50385
+                ]
+            },
+            "properties": {
+                "name": "O2 Shepherd's Bush Empire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.072768,
+                    51.530509
+                ]
+            },
+            "properties": {
+                "name": "Folklore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.115209,
+                    51.484869
+                ]
+            },
+            "properties": {
+                "name": "Royal Vauxhall Tavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.023633,
+                    51.544161
+                ]
+            },
+            "properties": {
+                "name": "Grow"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.066167,
+                    51.571495
+                ]
+            },
+            "properties": {
+                "name": "Biddle Bros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.202794141,
+                    51.36708629
+                ]
+            },
+            "properties": {
+                "name": "Boom Boom Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.135026,
+                    51.514467
+                ]
+            },
+            "properties": {
+                "name": "St. Moritz Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103760661,
+                    51.5462
+                ]
+            },
+            "properties": {
+                "name": "Grace (The)/Garage (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05465,
+                    51.545251
+                ]
+            },
+            "properties": {
+                "name": "Moth Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.102481,
+                    51.544765
+                ]
+            },
+            "properties": {
+                "name": "Union Chapel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05723,
+                    51.532114
+                ]
+            },
+            "properties": {
+                "name": "Redon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11904752,
+                    51.5301846
+                ]
+            },
+            "properties": {
+                "name": "Scala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.072289,
+                    51.521706
+                ]
+            },
+            "properties": {
+                "name": "93 Feet East"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.137952896,
+                    51.51247219
+                ]
+            },
+            "properties": {
+                "name": "Ain't Nothin' But..."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076517,
+                    51.54932
+                ]
+            },
+            "properties": {
+                "name": "Vortex Jazz Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.135333,
+                    51.516215
+                ]
+            },
+            "properties": {
+                "name": "100 Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.146086,
+                    51.541357
+                ]
+            },
+            "properties": {
+                "name": "Dingwalls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.145813,
+                    51.537253
+                ]
+            },
+            "properties": {
+                "name": "Green Note"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05752,
+                    51.547982
+                ]
+            },
+            "properties": {
+                "name": "Oslo Hackney"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076722,
+                    51.548642
+                ]
+            },
+            "properties": {
+                "name": "Servant Jazz Quarters"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.063057,
+                    51.532091
+                ]
+            },
+            "properties": {
+                "name": "Sebright Arms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078034,
+                    51.523788
+                ]
+            },
+            "properties": {
+                "name": "Village Underground"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.14375,
+                    51.522726
+                ]
+            },
+            "properties": {
+                "name": "229 The Venue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.093530014,
+                    51.50039049
+                ]
+            },
+            "properties": {
+                "name": "Gladstone Arms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129430233,
+                    51.51398238
+                ]
+            },
+            "properties": {
+                "name": "Jazz After Dark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.19455,
+                    51.509376
+                ]
+            },
+            "properties": {
+                "name": "Notting Hill Arts Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.106481583,
+                    51.52235585
+                ]
+            },
+            "properties": {
+                "name": "Piano Works"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.300944676,
+                    51.5139036
+                ]
+            },
+            "properties": {
+                "name": "Red Room (Ealing Jazz Club)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082418851,
+                    51.5261559
+                ]
+            },
+            "properties": {
+                "name": "Roadtrip And The Workshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.148538,
+                    51.542817
+                ]
+            },
+            "properties": {
+                "name": "Roundhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.069878565,
+                    51.55197766
+                ]
+            },
+            "properties": {
+                "name": "Shacklewell Arms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.099658235,
+                    51.52280309
+                ]
+            },
+            "properties": {
+                "name": "Slaughtered Lamb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.106446667,
+                    51.52284993
+                ]
+            },
+            "properties": {
+                "name": "Betsey Trotwood (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.051297722,
+                    51.51382528
+                ]
+            },
+            "properties": {
+                "name": "George Tavern (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.118974722,
+                    51.52705367
+                ]
+            },
+            "properties": {
+                "name": "Harrison (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.14147655,
+                    51.53815067
+                ]
+            },
+            "properties": {
+                "name": "Jazz Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.109832348,
+                    51.53125957
+                ]
+            },
+            "properties": {
+                "name": "Lexington (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078437184,
+                    51.52963421
+                ]
+            },
+            "properties": {
+                "name": "Macbeth (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13922897,
+                    51.5168813
+                ]
+            },
+            "properties": {
+                "name": "Social (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.128176925,
+                    51.51291014
+                ]
+            },
+            "properties": {
+                "name": "Spice Of Life (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.140387681,
+                    51.53868201
+                ]
+            },
+            "properties": {
+                "name": "Underworld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11781701,
+                    51.52855501
+                ]
+            },
+            "properties": {
+                "name": "Water Rats"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.166488,
+                    51.426768
+                ]
+            },
+            "properties": {
+                "name": "Tooting Tram And Social"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.086039395,
+                    51.37780104
+                ]
+            },
+            "properties": {
+                "name": "The Oval (Formerly The Oval Tavern)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.013254244,
+                    51.56686787
+                ]
+            },
+            "properties": {
+                "name": "Leytonstone Ex-Servicemens Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.012061756,
+                    51.52111713
+                ]
+            },
+            "properties": {
+                "name": "Beehive (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.051726509,
+                    51.54869171
+                ]
+            },
+            "properties": {
+                "name": "St John At Hackney Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.081428,
+                    51.522175
+                ]
+            },
+            "properties": {
+                "name": "Queen Of Hoxton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078538806,
+                    51.52549931
+                ]
+            },
+            "properties": {
+                "name": "Strongroom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.296596695,
+                    51.41015503
+                ]
+            },
+            "properties": {
+                "name": "Fighting Cocks Bar And Venue (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.072243251,
+                    51.56155873
+                ]
+            },
+            "properties": {
+                "name": "Waiting Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.094686014,
+                    51.57144052
+                ]
+            },
+            "properties": {
+                "name": "Finsbury (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.106770577,
+                    51.56646487
+                ]
+            },
+            "properties": {
+                "name": "World's End"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.141815,
+                    51.539112
+                ]
+            },
+            "properties": {
+                "name": "Black Heart (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.143991906,
+                    51.5369404
+                ]
+            },
+            "properties": {
+                "name": "Dublin Castle (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.143958879,
+                    51.54094199
+                ]
+            },
+            "properties": {
+                "name": "Powerhaus (Dingwalls)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.137144327,
+                    51.55700428
+                ]
+            },
+            "properties": {
+                "name": "Dome (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.149554849,
+                    51.54556312
+                ]
+            },
+            "properties": {
+                "name": "Fiddlers Elbow (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.006384296,
+                    51.47912797
+                ]
+            },
+            "properties": {
+                "name": "Olivers Jazz Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.037079,
+                    51.475773
+                ]
+            },
+            "properties": {
+                "name": "New Cross Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.102127,
+                    51.452984
+                ]
+            },
+            "properties": {
+                "name": "Off The Cuff"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.147693672,
+                    51.44216166
+                ]
+            },
+            "properties": {
+                "name": "Bedford (The) "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.218533971,
+                    51.46677792
+                ]
+            },
+            "properties": {
+                "name": "Half Moon Putney"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.128196909,
+                    51.43010618
+                ]
+            },
+            "properties": {
+                "name": "White Lion Sw16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.116868,
+                    51.459842
+                ]
+            },
+            "properties": {
+                "name": "Electric Brixton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.163878229,
+                    51.48857143
+                ]
+            },
+            "properties": {
+                "name": "Pizza Express (The Pheasantry)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.189991804,
+                    51.48832093
+                ]
+            },
+            "properties": {
+                "name": "Troubadour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.205675684,
+                    51.49172771
+                ]
+            },
+            "properties": {
+                "name": "Nell's Jazz & Blues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1333,
+                    51.51512
+                ]
+            },
+            "properties": {
+                "name": "Pizza Express (Jazz Club Soho)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.130108948,
+                    51.51289599
+                ]
+            },
+            "properties": {
+                "name": "Ronnie Scotts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.255509594,
+                    51.49171527
+                ]
+            },
+            "properties": {
+                "name": "Boston Room (The) At George Iv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127484865,
+                    51.51396932
+                ]
+            },
+            "properties": {
+                "name": "Phoenix Arts Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.149208915,
+                    51.47479645
+                ]
+            },
+            "properties": {
+                "name": "The Magic Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00472,
+                    51.52228
+                ]
+            },
+            "properties": {
+                "name": "Arch 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.116497,
+                    51.500912
+                ]
+            },
+            "properties": {
+                "name": "Primo Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.133972733,
+                    51.51005262
+                ]
+            },
+            "properties": {
+                "name": "Crazy Coqs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.100953,
+                    51.371863
+                ]
+            },
+            "properties": {
+                "name": "Matthews Yard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103371,
+                    51.491117
+                ]
+            },
+            "properties": {
+                "name": "Toulouse Lautrec Jazz Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.070740798,
+                    51.52102688
+                ]
+            },
+            "properties": {
+                "name": "Cafe 1001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.085347327,
+                    51.53711297
+                ]
+            },
+            "properties": {
+                "name": "Rosemary Branch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.232317388,
+                    51.40929292
+                ]
+            },
+            "properties": {
+                "name": "The Cavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.148904,
+                    51.543217
+                ]
+            },
+            "properties": {
+                "name": "Spiritual Caipirinha Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.052155,
+                    51.458258
+                ]
+            },
+            "properties": {
+                "name": "Ivy House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078167,
+                    51.528466
+                ]
+            },
+            "properties": {
+                "name": "Spread Eagle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.105134,
+                    51.489473
+                ]
+            },
+            "properties": {
+                "name": "Old Red Lion Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.114649,
+                    51.464399
+                ]
+            },
+            "properties": {
+                "name": "Phonox"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.134962016,
+                    51.46535221
+                ]
+            },
+            "properties": {
+                "name": "The Bread & Roses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.249258211,
+                    51.47325742
+                ]
+            },
+            "properties": {
+                "name": "The Bulls Head Barnes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.050420409,
+                    51.41278419
+                ]
+            },
+            "properties": {
+                "name": "Goldsmiths Arms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.120472128,
+                    51.53585538
+                ]
+            },
+            "properties": {
+                "name": "The Star Of Kings"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.024494,
+                    51.549864
+                ]
+            },
+            "properties": {
+                "name": "Forest Tavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082231334,
+                    51.5271871
+                ]
+            },
+            "properties": {
+                "name": "Charlie Wright Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.270227218,
+                    51.5067185
+                ]
+            },
+            "properties": {
+                "name": "The George & The Dragon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.188562689,
+                    51.53453444
+                ]
+            },
+            "properties": {
+                "name": "Queens Arms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.294161461,
+                    51.39251026
+                ]
+            },
+            "properties": {
+                "name": "Brave New World"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.141671,
+                    51.50818
+                ]
+            },
+            "properties": {
+                "name": "Mnky Hse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.148085,
+                    51.494416
+                ]
+            },
+            "properties": {
+                "name": "Boisdale Of Belgravia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.022244,
+                    51.505357
+                ]
+            },
+            "properties": {
+                "name": "Boisdale Of Canary Wharf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.080422675,
+                    51.52699562
+                ]
+            },
+            "properties": {
+                "name": "Colours Hoxton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.06242,
+                    51.5267
+                ]
+            },
+            "properties": {
+                "name": "Star Of Bethnal Green"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.021790332,
+                    51.54212896
+                ]
+            },
+            "properties": {
+                "name": "The Yard Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.119348,
+                    51.486307
+                ]
+            },
+            "properties": {
+                "name": "The Eagle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.084887379,
+                    51.51852469
+                ]
+            },
+            "properties": {
+                "name": "South Place Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.021137394,
+                    51.5438807
+                ]
+            },
+            "properties": {
+                "name": "Number 90"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.102505,
+                    51.519574
+                ]
+            },
+            "properties": {
+                "name": "Fabric"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.074951,
+                    51.551156
+                ]
+            },
+            "properties": {
+                "name": "Tipsy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.094603,
+                    51.504143
+                ]
+            },
+            "properties": {
+                "name": "Omeara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.123444,
+                    51.484403
+                ]
+            },
+            "properties": {
+                "name": "Fire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.074190376,
+                    51.54347765
+                ]
+            },
+            "properties": {
+                "name": "Bar 512"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.074649,
+                    51.552572
+                ]
+            },
+            "properties": {
+                "name": "Vfd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.125188,
+                    51.541751
+                ]
+            },
+            "properties": {
+                "name": "Egg London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.124122,
+                    51.508087
+                ]
+            },
+            "properties": {
+                "name": "Heaven"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.075528878,
+                    51.53568418
+                ]
+            },
+            "properties": {
+                "name": "The Glory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.141385,
+                    51.513306
+                ]
+            },
+            "properties": {
+                "name": "Maddox Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.191557,
+                    51.481432
+                ]
+            },
+            "properties": {
+                "name": "Under The Bridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.099209,
+                    51.49765
+                ]
+            },
+            "properties": {
+                "name": "Ministry Of Sound"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.037139,
+                    51.45521
+                ]
+            },
+            "properties": {
+                "name": "Rivoli Ballroom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.132892,
+                    51.509731
+                ]
+            },
+            "properties": {
+                "name": "Tiger Tiger London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.074701,
+                    51.556337
+                ]
+            },
+            "properties": {
+                "name": "Bar A Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.074798,
+                    51.552327
+                ]
+            },
+            "properties": {
+                "name": "Moustache Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.043516,
+                    51.497523
+                ]
+            },
+            "properties": {
+                "name": "Printworks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073243,
+                    51.548193
+                ]
+            },
+            "properties": {
+                "name": "Ridley Road Market Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00482,
+                    51.495442
+                ]
+            },
+            "properties": {
+                "name": "Studio 338"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.145458,
+                    51.514164
+                ]
+            },
+            "properties": {
+                "name": "Loop Bar & Nightclub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.066488,
+                    51.467718
+                ]
+            },
+            "properties": {
+                "name": "Tasty Bakery (Tasties)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.080557,
+                    51.527011
+                ]
+            },
+            "properties": {
+                "name": "Trafik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.089700397,
+                    51.53716596
+                ]
+            },
+            "properties": {
+                "name": "The Lighthouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.085704,
+                    51.525519
+                ]
+            },
+            "properties": {
+                "name": "Xoyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078204,
+                    51.52844
+                ]
+            },
+            "properties": {
+                "name": "Basing House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.101943545,
+                    51.51881097
+                ]
+            },
+            "properties": {
+                "name": "Beduin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08587,
+                    51.524025
+                ]
+            },
+            "properties": {
+                "name": "McQueen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.133987,
+                    51.510378
+                ]
+            },
+            "properties": {
+                "name": "Piccadilly Institute"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.070609682,
+                    51.52037718
+                ]
+            },
+            "properties": {
+                "name": "The Big Chill Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078535011,
+                    51.52491417
+                ]
+            },
+            "properties": {
+                "name": "The Hoxton Pony"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.075603,
+                    51.545587
+                ]
+            },
+            "properties": {
+                "name": "Junction House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.095805,
+                    51.524066
+                ]
+            },
+            "properties": {
+                "name": "Nomad London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.104014,
+                    51.535991
+                ]
+            },
+            "properties": {
+                "name": "Ladybird / Basement Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113254,
+                    51.455382
+                ]
+            },
+            "properties": {
+                "name": "Hootananny Brixton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127681,
+                    51.43846
+                ]
+            },
+            "properties": {
+                "name": "Porky's Wine Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.110280436,
+                    51.47028117
+                ]
+            },
+            "properties": {
+                "name": "Brixton Jamm Limited"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.088956021,
+                    51.50948953
+                ]
+            },
+            "properties": {
+                "name": "The Steel Yard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.174155601,
+                    51.49347152
+                ]
+            },
+            "properties": {
+                "name": "Montezuma London Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.133381232,
+                    51.50900894
+                ]
+            },
+            "properties": {
+                "name": "The London Reign"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.017983696,
+                    51.40660746
+                ]
+            },
+            "properties": {
+                "name": "Vuvu Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073878908,
+                    51.54538817
+                ]
+            },
+            "properties": {
+                "name": "Vision Video Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078042927,
+                    51.52564358
+                ]
+            },
+            "properties": {
+                "name": "The Lighthouse Bar And Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.081825315,
+                    51.52518388
+                ]
+            },
+            "properties": {
+                "name": "Trapeze Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.027882673,
+                    51.54666541
+                ]
+            },
+            "properties": {
+                "name": "The Old Baths & Cre8 Galleries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.085258546,
+                    51.47254627
+                ]
+            },
+            "properties": {
+                "name": "Jazzlive At The Crypt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.019715726,
+                    51.44468296
+                ]
+            },
+            "properties": {
+                "name": "The Broadway Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.079648186,
+                    51.53515785
+                ]
+            },
+            "properties": {
+                "name": "The Broadway Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.007731553,
+                    51.50204518
+                ]
+            },
+            "properties": {
+                "name": "Indigo At The O2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.04332,
+                    51.513147
+                ]
+            },
+            "properties": {
+                "name": "Troxy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05846,
+                    51.508324
+                ]
+            },
+            "properties": {
+                "name": "Tobacco Dock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07952,
+                    51.527125
+                ]
+            },
+            "properties": {
+                "name": "Shoreditch Town Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.099218,
+                    51.366616
+                ]
+            },
+            "properties": {
+                "name": "Scream Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129571746,
+                    51.51439834
+                ]
+            },
+            "properties": {
+                "name": "The House Of St. Barnabas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073064162,
+                    51.56534951
+                ]
+            },
+            "properties": {
+                "name": "The Others"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113702738,
+                    51.50146321
+                ]
+            },
+            "properties": {
+                "name": "The Vaults"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.132648671,
+                    51.51740626
+                ]
+            },
+            "properties": {
+                "name": "Bourne & Hollingsworth Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.118356,
+                    51.519748
+                ]
+            },
+            "properties": {
+                "name": "Conway Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00162698,
+                    51.45254973
+                ]
+            },
+            "properties": {
+                "name": "Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.114641,
+                    51.461272
+                ]
+            },
+            "properties": {
+                "name": "Upstairs At The Ritzy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.135050723,
+                    51.50836099
+                ]
+            },
+            "properties": {
+                "name": "St. James's Piccadilly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.050084181,
+                    51.55167728
+                ]
+            },
+            "properties": {
+                "name": "The Round Chapel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0712608,
+                    51.54590275
+                ]
+            },
+            "properties": {
+                "name": "The Passage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.088525155,
+                    51.51220757
+                ]
+            },
+            "properties": {
+                "name": "St. Stephen Walbrook"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.055383931,
+                    51.4269779
+                ]
+            },
+            "properties": {
+                "name": "St. Bartholomews Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.104878542,
+                    51.5165201
+                ]
+            },
+            "properties": {
+                "name": "St. Andrew Holborn Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.124907408,
+                    51.50863992
+                ]
+            },
+            "properties": {
+                "name": "St. Martin-In-The-Fields"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126788693,
+                    51.51477662
+                ]
+            },
+            "properties": {
+                "name": "St. Giles-In-The-Fields"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.094680627,
+                    51.51598613
+                ]
+            },
+            "properties": {
+                "name": "St. Anne And St. Agnes Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082287635,
+                    51.56049123
+                ]
+            },
+            "properties": {
+                "name": "The Old Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.081339815,
+                    51.5086097
+                ]
+            },
+            "properties": {
+                "name": "St. Magnus The Martyr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.311313371,
+                    51.4523837
+                ]
+            },
+            "properties": {
+                "name": "St Stephen's Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.100399528,
+                    51.53789732
+                ]
+            },
+            "properties": {
+                "name": "St. Mary's Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.003758,
+                    51.519032
+                ]
+            },
+            "properties": {
+                "name": "Fold"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.01215,
+                    51.584445
+                ]
+            },
+            "properties": {
+                "name": "St Mary's Music Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103473,
+                    51.543259
+                ]
+            },
+            "properties": {
+                "name": "Hope And Anchor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.130317,
+                    51.426834
+                ]
+            },
+            "properties": {
+                "name": "Hideaway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113526,
+                    51.461631
+                ]
+            },
+            "properties": {
+                "name": "Club 414"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073192,
+                    51.52036
+                ]
+            },
+            "properties": {
+                "name": "Big Chill Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.023297,
+                    51.544487
+                ]
+            },
+            "properties": {
+                "name": "Shapes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.077097,
+                    51.535532
+                ]
+            },
+            "properties": {
+                "name": "Echoes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.021019,
+                    51.540185
+                ]
+            },
+            "properties": {
+                "name": "Stour Space"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.064838,
+                    51.583268
+                ]
+            },
+            "properties": {
+                "name": "Five Miles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.067938,
+                    51.514973
+                ]
+            },
+            "properties": {
+                "name": "The Warehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.201371,
+                    51.522819
+                ]
+            },
+            "properties": {
+                "name": "Union Tavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.105732,
+                    51.522035
+                ]
+            },
+            "properties": {
+                "name": "Turnmills"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078042927,
+                    51.52564358
+                ]
+            },
+            "properties": {
+                "name": "Bedroom Bar (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.081675622,
+                    51.52565809
+                ]
+            },
+            "properties": {
+                "name": "Kamio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.107183964,
+                    51.53392393
+                ]
+            },
+            "properties": {
+                "name": "Pin Ups (Formerly The Islington)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.075194,
+                    51.551775
+                ]
+            },
+            "properties": {
+                "name": "Birthdays"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.123635,
+                    51.560973
+                ]
+            },
+            "properties": {
+                "name": "Nambucca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.146047,
+                    51.541281
+                ]
+            },
+            "properties": {
+                "name": "Lock 17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.146854089,
+                    51.5424537
+                ]
+            },
+            "properties": {
+                "name": "Monarch (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.080604,
+                    51.525289
+                ]
+            },
+            "properties": {
+                "name": "Cordy House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.045118889,
+                    51.47397932
+                ]
+            },
+            "properties": {
+                "name": "White Hart Beer House And Kitchen (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.172390697,
+                    51.47347833
+                ]
+            },
+            "properties": {
+                "name": "Le Quecumbar And Brasserie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.328411057,
+                    51.4482958
+                ]
+            },
+            "properties": {
+                "name": "Cabbage Patch (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13056,
+                    51.510686
+                ]
+            },
+            "properties": {
+                "name": "Marquee Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.071652,
+                    51.519424
+                ]
+            },
+            "properties": {
+                "name": "Suito Loft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.140671,
+                    51.572691
+                ]
+            },
+            "properties": {
+                "name": "Caipirinha Bar & Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.206332,
+                    51.523995
+                ]
+            },
+            "properties": {
+                "name": "Number Ten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.007522,
+                    51.547359
+                ]
+            },
+            "properties": {
+                "name": "Village Vanguard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.085316,
+                    51.526455
+                ]
+            },
+            "properties": {
+                "name": "Canvas Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.071015,
+                    51.484947
+                ]
+            },
+            "properties": {
+                "name": "The Paperworks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.064904,
+                    51.483232
+                ]
+            },
+            "properties": {
+                "name": "Luxford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.141726,
+                    51.544346
+                ]
+            },
+            "properties": {
+                "name": "Heroes Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.109791,
+                    51.516815
+                ]
+            },
+            "properties": {
+                "name": "Volupte Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08407,
+                    51.503078
+                ]
+            },
+            "properties": {
+                "name": "Arches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.020424,
+                    51.586497
+                ]
+            },
+            "properties": {
+                "name": "Mirth, Marvel And Maud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.122896,
+                    51.486909
+                ]
+            },
+            "properties": {
+                "name": "Bloc South"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.010681,
+                    51.531081
+                ]
+            },
+            "properties": {
+                "name": "Sugarhouse Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.116055,
+                    51.510461
+                ]
+            },
+            "properties": {
+                "name": "One Embankment"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.100616,
+                    51.372891
+                ]
+            },
+            "properties": {
+                "name": "Tiger Tiger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.140538,
+                    51.507595
+                ]
+            },
+            "properties": {
+                "name": "Aura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.035967,
+                    51.609343
+                ]
+            },
+            "properties": {
+                "name": "Box H9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.125203,
+                    51.513191
+                ]
+            },
+            "properties": {
+                "name": "Foundation Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.132473,
+                    51.509902
+                ]
+            },
+            "properties": {
+                "name": "Luxe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.144251,
+                    51.514152
+                ]
+            },
+            "properties": {
+                "name": "Jalouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.188882,
+                    51.518267
+                ]
+            },
+            "properties": {
+                "name": "Ma Dame"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.14061,
+                    51.514735
+                ]
+            },
+            "properties": {
+                "name": "Mason House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.106056,
+                    51.519933
+                ]
+            },
+            "properties": {
+                "name": "V Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.085586,
+                    51.515478
+                ]
+            },
+            "properties": {
+                "name": "Il Bottaccio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.121885,
+                    51.5117
+                ]
+            },
+            "properties": {
+                "name": "Roadhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.140572,
+                    51.537415
+                ]
+            },
+            "properties": {
+                "name": "Silk Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.098682,
+                    51.504307
+                ]
+            },
+            "properties": {
+                "name": "Star Anise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103929,
+                    51.507852
+                ]
+            },
+            "properties": {
+                "name": "Pulse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.183895,
+                    51.484379
+                ]
+            },
+            "properties": {
+                "name": "Valmont Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.017197,
+                    51.393127
+                ]
+            },
+            "properties": {
+                "name": "Verve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.192979,
+                    51.361307
+                ]
+            },
+            "properties": {
+                "name": "Wonderland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.149963,
+                    51.50539
+                ]
+            },
+            "properties": {
+                "name": "Whisky Mist"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.132962,
+                    51.514012
+                ]
+            },
+            "properties": {
+                "name": "Zenna Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.133366,
+                    51.510197
+                ]
+            },
+            "properties": {
+                "name": "Cafe De Paris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.199546193,
+                    51.41873191
+                ]
+            },
+            "properties": {
+                "name": "The Pod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.035162538,
+                    51.47543174
+                ]
+            },
+            "properties": {
+                "name": "The Venue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10601,
+                    51.381732
+                ]
+            },
+            "properties": {
+                "name": "Tabu Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.062251,
+                    51.514213
+                ]
+            },
+            "properties": {
+                "name": "Warehouse 11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.077285,
+                    51.525416
+                ]
+            },
+            "properties": {
+                "name": "Miranda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.071185,
+                    51.525321
+                ]
+            },
+            "properties": {
+                "name": "Scream Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10436,
+                    51.520386
+                ]
+            },
+            "properties": {
+                "name": "Sub Ember"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08078,
+                    51.5239
+                ]
+            },
+            "properties": {
+                "name": "Scrutton Street Warehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.099084,
+                    51.512362
+                ]
+            },
+            "properties": {
+                "name": "Clubten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.307644,
+                    51.410409
+                ]
+            },
+            "properties": {
+                "name": "McClusky's Kingston"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.074848,
+                    51.553714
+                ]
+            },
+            "properties": {
+                "name": "Hammerschlagen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.074603,
+                    51.55706
+                ]
+            },
+            "properties": {
+                "name": "Hackney Trashbar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.074533,
+                    51.558716
+                ]
+            },
+            "properties": {
+                "name": "Basement 55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.069211,
+                    51.590937
+                ]
+            },
+            "properties": {
+                "name": "Industry Ldn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.120781,
+                    51.587148
+                ]
+            },
+            "properties": {
+                "name": "Whisperz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.136964,
+                    51.526664
+                ]
+            },
+            "properties": {
+                "name": "Club In\u00e9gales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.143451,
+                    51.553357
+                ]
+            },
+            "properties": {
+                "name": "Expresssions"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07651,
+                    51.503449
+                ]
+            },
+            "properties": {
+                "name": "Mono Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.022059,
+                    51.476446
+                ]
+            },
+            "properties": {
+                "name": "Number3London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.168323,
+                    51.463408
+                ]
+            },
+            "properties": {
+                "name": "Wessex House Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.143254,
+                    51.496191
+                ]
+            },
+            "properties": {
+                "name": "L8 Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.137037,
+                    51.508129
+                ]
+            },
+            "properties": {
+                "name": "Hide London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.191043,
+                    51.490191
+                ]
+            },
+            "properties": {
+                "name": "Mango Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.194155,
+                    51.492473
+                ]
+            },
+            "properties": {
+                "name": "Vaudeville Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.195259,
+                    51.479917
+                ]
+            },
+            "properties": {
+                "name": "Vintage Nightclub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.210785,
+                    51.525619
+                ]
+            },
+            "properties": {
+                "name": "Warehouse W10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.139316,
+                    51.512205
+                ]
+            },
+            "properties": {
+                "name": "Studio Valbonne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.189033,
+                    51.518319
+                ]
+            },
+            "properties": {
+                "name": "Anthonys Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.248884,
+                    51.53747
+                ]
+            },
+            "properties": {
+                "name": "Karma Ealing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.187523,
+                    51.502171
+                ]
+            },
+            "properties": {
+                "name": "Hyde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129545,
+                    51.510249
+                ]
+            },
+            "properties": {
+                "name": "Storm Nightclub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05626323,
+                    51.53837036
+                ]
+            },
+            "properties": {
+                "name": "Mangle E8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.085911784,
+                    51.52503479
+                ]
+            },
+            "properties": {
+                "name": "The Magic Roundabout"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.075536836,
+                    51.53515369
+                ]
+            },
+            "properties": {
+                "name": "Shelter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.099811891,
+                    51.50387406
+                ]
+            },
+            "properties": {
+                "name": "Great Suffolk Street Warehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.022863,
+                    51.542863
+                ]
+            },
+            "properties": {
+                "name": "Mick's Garage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.003664,
+                    51.502525
+                ]
+            },
+            "properties": {
+                "name": "Area 12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103507,
+                    51.478208
+                ]
+            },
+            "properties": {
+                "name": "Bar Lenuccia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.100629,
+                    51.520141
+                ]
+            },
+            "properties": {
+                "name": "Charterhouse Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.104454,
+                    51.520379
+                ]
+            },
+            "properties": {
+                "name": "Ember"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073538,
+                    51.514915
+                ]
+            },
+            "properties": {
+                "name": "Hub Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.145114,
+                    51.467943
+                ]
+            },
+            "properties": {
+                "name": "Mist On Rocks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.023137,
+                    51.542956
+                ]
+            },
+            "properties": {
+                "name": "Shutter Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.083627,
+                    51.514556
+                ]
+            },
+            "properties": {
+                "name": "Gibson Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.078602,
+                    51.482958
+                ]
+            },
+            "properties": {
+                "name": "The Pavilion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076765226,
+                    51.52688174
+                ]
+            },
+            "properties": {
+                "name": "The Old Shoreditch Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05831,
+                    51.537564
+                ]
+            },
+            "properties": {
+                "name": "New Empowering Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.023137,
+                    51.542956
+                ]
+            },
+            "properties": {
+                "name": "Lucky Me Warehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.088509,
+                    51.525832
+                ]
+            },
+            "properties": {
+                "name": "Old St Terrace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.097898,
+                    51.523352
+                ]
+            },
+            "properties": {
+                "name": "Life Basement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.080086,
+                    51.526627
+                ]
+            },
+            "properties": {
+                "name": "Grotto Outre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.125493,
+                    51.536369
+                ]
+            },
+            "properties": {
+                "name": "Skate Kings Cross"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.146871,
+                    51.542318
+                ]
+            },
+            "properties": {
+                "name": "Gilgamesh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.144799,
+                    51.541238
+                ]
+            },
+            "properties": {
+                "name": "Inspiral Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127975583,
+                    51.54840176
+                ]
+            },
+            "properties": {
+                "name": "The Unicorn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.145908,
+                    51.541691
+                ]
+            },
+            "properties": {
+                "name": "Luv Camden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.24628,
+                    51.535954
+                ]
+            },
+            "properties": {
+                "name": "Space NW10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.025956,
+                    51.474705
+                ]
+            },
+            "properties": {
+                "name": "Vinyl Deptford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.120439,
+                    51.460313
+                ]
+            },
+            "properties": {
+                "name": "Electric Social"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.199269,
+                    51.481366
+                ]
+            },
+            "properties": {
+                "name": "Sugar Hut Club Fulham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.105635,
+                    51.463573
+                ]
+            },
+            "properties": {
+                "name": "Arch 269"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.295242983,
+                    51.46121837
+                ]
+            },
+            "properties": {
+                "name": "Red Cow"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08013242,
+                    51.50185392
+                ]
+            },
+            "properties": {
+                "name": "Underdog Gallery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.003664,
+                    51.502525
+                ]
+            },
+            "properties": {
+                "name": "Building Six"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.116304,
+                    51.506081
+                ]
+            },
+            "properties": {
+                "name": "Queen Elizabeth Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.077199,
+                    51.5489
+                ]
+            },
+            "properties": {
+                "name": "Old Cholmeley Boys Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.080648,
+                    51.526787
+                ]
+            },
+            "properties": {
+                "name": "Old Street Records"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.059567,
+                    51.491722
+                ]
+            },
+            "properties": {
+                "name": "Bermondsey Social Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13803,
+                    51.462525
+                ]
+            },
+            "properties": {
+                "name": "Venn Street Records"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.227299,
+                    51.530032
+                ]
+            },
+            "properties": {
+                "name": "Masons Arms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.057704794,
+                    51.53209767
+                ]
+            },
+            "properties": {
+                "name": "Pickle Factory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.075291,
+                    51.551104
+                ]
+            },
+            "properties": {
+                "name": "Earth Hackney"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.145044,
+                    51.547721
+                ]
+            },
+            "properties": {
+                "name": "Map Studio Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.098129,
+                    51.372931
+                ]
+            },
+            "properties": {
+                "name": "Alchemy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05723,
+                    51.532114
+                ]
+            },
+            "properties": {
+                "name": "Space 289 (Formerly Redon)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.054639,
+                    51.547292
+                ]
+            },
+            "properties": {
+                "name": "Paper Dress Vintage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.059806198,
+                    51.53681714
+                ]
+            },
+            "properties": {
+                "name": "Kansas Smitty's (Looking For A New Home)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.083774,
+                    51.510502
+                ]
+            },
+            "properties": {
+                "name": "Eastcheap Records"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.136849624,
+                    51.55680175
+                ]
+            },
+            "properties": {
+                "name": "Boston Music Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.100421,
+                    51.584472
+                ]
+            },
+            "properties": {
+                "name": "Jam In A Jar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.012813853,
+                    51.45646492
+                ]
+            },
+            "properties": {
+                "name": "Fox And Firkin (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.120654931,
+                    51.53181263
+                ]
+            },
+            "properties": {
+                "name": "The Guitar Social - King's Cross"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.024756,
+                    51.478544
+                ]
+            },
+            "properties": {
+                "name": "Buster Mantis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.074941,
+                    51.554396
+                ]
+            },
+            "properties": {
+                "name": "Scenario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.012238,
+                    51.569116
+                ]
+            },
+            "properties": {
+                "name": "The Birds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.099457,
+                    51.561378
+                ]
+            },
+            "properties": {
+                "name": "T-Bird"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.138583,
+                    51.50722
+                ]
+            },
+            "properties": {
+                "name": "Quaglinos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.21455,
+                    51.466005
+                ]
+            },
+            "properties": {
+                "name": "Putney Pies & Vaults"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.124865,
+                    51.480931
+                ]
+            },
+            "properties": {
+                "name": "Tia Maria Restaurant & Music Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.016543765,
+                    51.4733623
+                ]
+            },
+            "properties": {
+                "name": "The George & Dragon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131581,
+                    51.510266
+                ]
+            },
+            "properties": {
+                "name": "W London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.27292,
+                    51.496128
+                ]
+            },
+            "properties": {
+                "name": "Union Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131778198,
+                    51.51190632
+                ]
+            },
+            "properties": {
+                "name": "Village Soho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.022664,
+                    51.543183
+                ]
+            },
+            "properties": {
+                "name": "Colour Factory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.072955,
+                    51.567041
+                ]
+            },
+            "properties": {
+                "name": "Mascara Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131516,
+                    51.509824
+                ]
+            },
+            "properties": {
+                "name": "Press"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131227,
+                    51.514284
+                ]
+            },
+            "properties": {
+                "name": "Thirst"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.137623,
+                    51.508117
+                ]
+            },
+            "properties": {
+                "name": "Tramp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.071967,
+                    51.51139
+                ]
+            },
+            "properties": {
+                "name": "Vout-O-Reenee's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.061664,
+                    51.509058
+                ]
+            },
+            "properties": {
+                "name": "E1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076307,
+                    51.54116
+                ]
+            },
+            "properties": {
+                "name": "Mannequin Magazine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.083386,
+                    51.525828
+                ]
+            },
+            "properties": {
+                "name": "Floripa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.083281,
+                    51.518972
+                ]
+            },
+            "properties": {
+                "name": "Soda Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.299859,
+                    51.411524
+                ]
+            },
+            "properties": {
+                "name": "Pryzm Kingston"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.079147,
+                    51.527985
+                ]
+            },
+            "properties": {
+                "name": "Hoxton Basement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.267183,
+                    51.526758
+                ]
+            },
+            "properties": {
+                "name": "Addictive Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.087492,
+                    51.505069
+                ]
+            },
+            "properties": {
+                "name": "La Pollera Colora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.068264,
+                    51.469798
+                ]
+            },
+            "properties": {
+                "name": "Peckham Audio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.216609,
+                    51.460833
+                ]
+            },
+            "properties": {
+                "name": "Le Fez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.137021,
+                    51.507769
+                ]
+            },
+            "properties": {
+                "name": "Scotch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.133504,
+                    51.511138
+                ]
+            },
+            "properties": {
+                "name": "Bar Rumba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.057723,
+                    51.537584
+                ]
+            },
+            "properties": {
+                "name": "Night Tales Loft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.077806,
+                    51.529067
+                ]
+            },
+            "properties": {
+                "name": "Rolling Stock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073547,
+                    51.555351
+                ]
+            },
+            "properties": {
+                "name": "Total Refreshment Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.066865,
+                    51.554731
+                ]
+            },
+            "properties": {
+                "name": "Hackney Showroom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.017539,
+                    51.502596
+                ]
+            },
+            "properties": {
+                "name": "East Wintergarden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078889,
+                    51.507326
+                ]
+            },
+            "properties": {
+                "name": "The Dutch Master"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113863,
+                    51.503793
+                ]
+            },
+            "properties": {
+                "name": "House Of Vans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076043,
+                    51.532847
+                ]
+            },
+            "properties": {
+                "name": "Love Vinyl Records"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.010815,
+                    51.509711
+                ]
+            },
+            "properties": {
+                "name": "The Greenwich Pensioner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.188384,
+                    51.517452
+                ]
+            },
+            "properties": {
+                "name": "Porchester Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.080109,
+                    51.526756
+                ]
+            },
+            "properties": {
+                "name": "Canvas One"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.056444,
+                    51.427327
+                ]
+            },
+            "properties": {
+                "name": "Sugahill Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.205805,
+                    51.519754
+                ]
+            },
+            "properties": {
+                "name": "Subterania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1284,
+                    51.511352
+                ]
+            },
+            "properties": {
+                "name": "Hippodrome"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126012,
+                    51.506935
+                ]
+            },
+            "properties": {
+                "name": "8 Northumberland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.077295632,
+                    51.52555635
+                ]
+            },
+            "properties": {
+                "name": "100 Shoreditch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.055966933,
+                    51.53427576
+                ]
+            },
+            "properties": {
+                "name": "Bistrotheque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.061643,
+                    51.535642
+                ]
+            },
+            "properties": {
+                "name": "Guest Projects"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129248,
+                    51.515597
+                ]
+            },
+            "properties": {
+                "name": "The Lower Third (formerly 12 Bar Club)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129970515,
+                    51.51568467
+                ]
+            },
+            "properties": {
+                "name": "HERE London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.120718,
+                    51.453129
+                ]
+            },
+            "properties": {
+                "name": "Gremio De Brixton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.191586,
+                    51.550528
+                ]
+            },
+            "properties": {
+                "name": "Salt Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.055589,
+                    51.482431
+                ]
+            },
+            "properties": {
+                "name": "Diy Space For London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073866023,
+                    51.54501022
+                ]
+            },
+            "properties": {
+                "name": "The Rocksteady"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.115896,
+                    51.531399
+                ]
+            },
+            "properties": {
+                "name": "Surya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073793,
+                    51.562584
+                ]
+            },
+            "properties": {
+                "name": "Three Crowns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076270829,
+                    51.41916531
+                ]
+            },
+            "properties": {
+                "name": "Grape & Grain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.143063,
+                    51.539681
+                ]
+            },
+            "properties": {
+                "name": "Electric Ballroom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.105192,
+                    51.532528
+                ]
+            },
+            "properties": {
+                "name": "Electrowerkz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09875171,
+                    51.3699766
+                ]
+            },
+            "properties": {
+                "name": "The Soulful Cellar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.108283,
+                    51.517526
+                ]
+            },
+            "properties": {
+                "name": "Kanaloa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.088162,
+                    51.574927
+                ]
+            },
+            "properties": {
+                "name": "New River Studios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.102499,
+                    51.539663
+                ]
+            },
+            "properties": {
+                "name": "Islington Assembly Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.069305915,
+                    51.58933646
+                ]
+            },
+            "properties": {
+                "name": "Tchances Arts & Music Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.079990011,
+                    51.526290021
+                ]
+            },
+            "properties": {
+                "name": "Blues Kitchen Shoreditch (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.042920038,
+                    51.609219984
+                ]
+            },
+            "properties": {
+                "name": "The Drumsheds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.123220012,
+                    51.487899982
+                ]
+            },
+            "properties": {
+                "name": "Paradise London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.065039964,
+                    51.469859989
+                ]
+            },
+            "properties": {
+                "name": "The NINES Peckham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.081590032,
+                    51.527790004
+                ]
+            },
+            "properties": {
+                "name": "Gigis Hoxton Underbelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.108110039,
+                    51.523030005
+                ]
+            },
+            "properties": {
+                "name": "Piano Works West End (Formerly Studio 88)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113920039,
+                    51.459829994
+                ]
+            },
+            "properties": {
+                "name": "Effra Hall Tavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.120379971,
+                    51.460369998
+                ]
+            },
+            "properties": {
+                "name": "Blues Kitchen Brixton (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076159984,
+                    51.541560004
+                ]
+            },
+            "properties": {
+                "name": "Passing Clouds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103810038,
+                    51.546589984
+                ]
+            },
+            "properties": {
+                "name": "The Garage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.07438543,
+                    51.448755001
+                ]
+            },
+            "properties": {
+                "name": "The Beehive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.049060034,
+                    51.546929996
+                ]
+            },
+            "properties": {
+                "name": "Glove That Fits (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.058659995,
+                    51.539479993
+                ]
+            },
+            "properties": {
+                "name": "London Fields Arches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.010400014,
+                    51.567750015
+                ]
+            },
+            "properties": {
+                "name": "St John's Music Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103160022,
+                    51.542660003
+                ]
+            },
+            "properties": {
+                "name": "London Jukebox (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113370018,
+                    51.594229998
+                ]
+            },
+            "properties": {
+                "name": "Karamel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07497998,
+                    51.55160999
+                ]
+            },
+            "properties": {
+                "name": "Nest (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.141639998,
+                    51.536989981
+                ]
+            },
+            "properties": {
+                "name": "Forge (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.148829995,
+                    51.543369992
+                ]
+            },
+            "properties": {
+                "name": "Spiritual Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.168580022,
+                    51.519370005
+                ]
+            },
+            "properties": {
+                "name": "Bar Code (Vauxhall) Limited"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.203159982,
+                    51.52231
+                ]
+            },
+            "properties": {
+                "name": "Unit 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.089559965,
+                    51.519789981
+                ]
+            },
+            "properties": {
+                "name": "Amber Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.133609967,
+                    51.512299996
+                ]
+            },
+            "properties": {
+                "name": "Shadow Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.122191583,
+                    51.516115
+                ]
+            },
+            "properties": {
+                "name": "Tropicana Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.070830015,
+                    51.47330998
+                ]
+            },
+            "properties": {
+                "name": "Peckham Palais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00955998,
+                    51.59306001
+                ]
+            },
+            "properties": {
+                "name": "The R S Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.154539999,
+                    51.514940002
+                ]
+            },
+            "properties": {
+                "name": "The Rose Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.208450001,
+                    51.499144651
+                ]
+            },
+            "properties": {
+                "name": "Olympia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.342940036,
+                    51.450860017
+                ]
+            },
+            "properties": {
+                "name": "Twickenham Stoop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.339990026,
+                    51.454700018
+                ]
+            },
+            "properties": {
+                "name": "Twickenham Stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.176880034,
+                    51.498900015
+                ]
+            },
+            "properties": {
+                "name": "Amaryllis Fleming\u00a0Concert Hall, Royal College Of Musi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.151699958,
+                    51.523310003
+                ]
+            },
+            "properties": {
+                "name": "The Duke's Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.14827,
+                    51.516510016
+                ]
+            },
+            "properties": {
+                "name": "Wigmore Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.068349978,
+                    51.469850015
+                ]
+            },
+            "properties": {
+                "name": "CLF Art Caf\u00e9 (Bussey Building)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.176880034,
+                    51.498900015
+                ]
+            },
+            "properties": {
+                "name": "Recital Hall "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.181109961,
+                    51.47862
+                ]
+            },
+            "properties": {
+                "name": "606 Club (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.122799994,
+                    51.513260017
+                ]
+            },
+            "properties": {
+                "name": "Linbury Theatre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.151269967,
+                    51.509140018
+                ]
+            },
+            "properties": {
+                "name": "The Grosvenor Chapel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.138800042,
+                    51.556230011
+                ]
+            },
+            "properties": {
+                "name": "Aces & Eights"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.102709997,
+                    51.537869997
+                ]
+            },
+            "properties": {
+                "name": "Slim Jim's Liquor Store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.087730028,
+                    51.526690005
+                ]
+            },
+            "properties": {
+                "name": "Nightjar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07570996,
+                    51.400239985
+                ]
+            },
+            "properties": {
+                "name": "Stanley Arts (Formerly Stanley Halls)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.023140004,
+                    51.524190019
+                ]
+            },
+            "properties": {
+                "name": "Engine Rooms (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076159984,
+                    51.541560004
+                ]
+            },
+            "properties": {
+                "name": "Jago Dalston (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.081590032,
+                    51.527790004
+                ]
+            },
+            "properties": {
+                "name": "Colours"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.142759988,
+                    51.541039991
+                ]
+            },
+            "properties": {
+                "name": "Devonshire Arms (The Dev)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.132150007,
+                    51.543580001
+                ]
+            },
+            "properties": {
+                "name": "Camden Chapel (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.177749991,
+                    51.558790012
+                ]
+            },
+            "properties": {
+                "name": "Hampstead Jazz Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.198469972,
+                    51.542230012
+                ]
+            },
+            "properties": {
+                "name": "Fiddler (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.333899986,
+                    51.579639996
+                ]
+            },
+            "properties": {
+                "name": "Trinity"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.04804004,
+                    51.476059999
+                ]
+            },
+            "properties": {
+                "name": "Music Room London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.026090015,
+                    51.478160001
+                ]
+            },
+            "properties": {
+                "name": "Aaja Music (Formerly Aaja Deptford)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.01703999,
+                    51.480249987
+                ]
+            },
+            "properties": {
+                "name": "Mycenae House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.070830015,
+                    51.47330998
+                ]
+            },
+            "properties": {
+                "name": "Tola Peckham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.194320008,
+                    51.366299983
+                ]
+            },
+            "properties": {
+                "name": "Sound Lounge (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13386,
+                    51.514909995
+                ]
+            },
+            "properties": {
+                "name": "Piano Bar Soho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11776004,
+                    51.467169985
+                ]
+            },
+            "properties": {
+                "name": "Queen's Head (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.19290003,
+                    51.446580007
+                ]
+            },
+            "properties": {
+                "name": "Bach Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.077400003,
+                    51.529729996
+                ]
+            },
+            "properties": {
+                "name": "Hoxton Cabin Ltd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.022770027,
+                    51.476159995
+                ]
+            },
+            "properties": {
+                "name": "Aaja Deptford Limited"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.200439971,
+                    51.543749986
+                ]
+            },
+            "properties": {
+                "name": "The Good Ship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.21759999,
+                    51.612549988
+                ]
+            },
+            "properties": {
+                "name": "Night Owl Nightlife Limited"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127469972,
+                    51.47647
+                ]
+            },
+            "properties": {
+                "name": "Cavendish Arms (The)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113210008,
+                    51.543150009
+                ]
+            },
+            "properties": {
+                "name": "Hemmingford Arms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.097899959,
+                    51.500649988
+                ]
+            },
+            "properties": {
+                "name": "The Libertine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.145099964,
+                    51.523639998
+                ]
+            },
+            "properties": {
+                "name": "The Thirsty Scholar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.148309982,
+                    51.542829988
+                ]
+            },
+            "properties": {
+                "name": "Made In Brasil Boteco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.014819959,
+                    51.477379981
+                ]
+            },
+            "properties": {
+                "name": "North Pole Bar & Piano Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.30229996,
+                    51.499050009
+                ]
+            },
+            "properties": {
+                "name": "West Five Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.051609783,
+                    51.530925
+                ]
+            },
+            "properties": {
+                "name": "Club 33 Limited"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13488959,
+                    51.513095
+                ]
+            },
+            "properties": {
+                "name": "The Box Soho "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.123220012,
+                    51.487899982
+                ]
+            },
+            "properties": {
+                "name": "Union"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.143389972,
+                    51.508320017
+                ]
+            },
+            "properties": {
+                "name": "Luxx Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.130970003,
+                    51.514100009
+                ]
+            },
+            "properties": {
+                "name": "Club 49"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08334998,
+                    51.525900011
+                ]
+            },
+            "properties": {
+                "name": "Medicine Bar & Nightclub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.237250021,
+                    51.486109985
+                ]
+            },
+            "properties": {
+                "name": "Raffles Chelsea Ltd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.04809997,
+                    51.484410009
+                ]
+            },
+            "properties": {
+                "name": "M.O.T Venue Ltd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.101360008,
+                    51.429619981
+                ]
+            },
+            "properties": {
+                "name": "Scandals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.130440015,
+                    51.510739998
+                ]
+            },
+            "properties": {
+                "name": "The Penthouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.033809999,
+                    51.510820003
+                ]
+            },
+            "properties": {
+                "name": "The Aviary Cave Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.093540028,
+                    51.47607999
+                ]
+            },
+            "properties": {
+                "name": "The Planet Nollywood"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.003549987,
+                    51.517710011
+                ]
+            },
+            "properties": {
+                "name": "Pier One"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.141800009,
+                    51.534589991
+                ]
+            },
+            "properties": {
+                "name": "Unit 58 Ltd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.18005996,
+                    51.486389982
+                ]
+            },
+            "properties": {
+                "name": "Maggie's Club "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.133009991,
+                    51.516690017
+                ]
+            },
+            "properties": {
+                "name": "The Roxy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.123220012,
+                    51.487899982
+                ]
+            },
+            "properties": {
+                "name": "Fantazya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.123489993,
+                    51.485649986
+                ]
+            },
+            "properties": {
+                "name": "Ligthbox"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.194940018,
+                    51.419420001
+                ]
+            },
+            "properties": {
+                "name": "The Watershed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.137890019,
+                    51.50990998
+                ]
+            },
+            "properties": {
+                "name": "The Cuckoo Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.138440039,
+                    51.515949979
+                ]
+            },
+            "properties": {
+                "name": "Libertine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076659964,
+                    51.530369996
+                ]
+            },
+            "properties": {
+                "name": "Hoxton Arches Events Limited"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.128979972,
+                    51.510909983
+                ]
+            },
+            "properties": {
+                "name": "Zoo Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.057259966,
+                    51.534899995
+                ]
+            },
+            "properties": {
+                "name": "The Guitar Social - Hackney"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.122249974,
+                    51.519109999
+                ]
+            },
+            "properties": {
+                "name": "The Bloomsbury Ballroom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13078996,
+                    51.513310015
+                ]
+            },
+            "properties": {
+                "name": "Soho House (Old Compton Street)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.081720036,
+                    51.524629985
+                ]
+            },
+            "properties": {
+                "name": "The Book Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.023149978,
+                    51.542979982
+                ]
+            },
+            "properties": {
+                "name": "Boat Live "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.139969988,
+                    51.517380016
+                ]
+            },
+            "properties": {
+                "name": "Kensington Roof Gardens Limited"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082929963,
+                    51.550830012
+                ]
+            },
+            "properties": {
+                "name": "Little Baobab Ltd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131019959,
+                    51.426219987
+                ]
+            },
+            "properties": {
+                "name": "Hideaways"
+            }
+        }
+    ]
+}

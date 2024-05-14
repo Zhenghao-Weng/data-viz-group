@@ -3,7 +3,7 @@ import { useSpring, a } from '@react-spring/web';
 import './index.css';
 
 const VideoHomePage = () => {
-    const videoSource = "https://raw.githubusercontent.com/Zhenghao-Weng/data-viz-group/main/public/video/bw.mp4";
+    const videoSource = "/video/bw.mp4";
     const words = ['Creative', 'Marketing', 'Architecture', 'Design', 'Video', 'IT', 'Music', 'Publishing'];
     const [index, setIndex] = useState(0);
     const [currentWord, setCurrentWord] = useState(words[0]);

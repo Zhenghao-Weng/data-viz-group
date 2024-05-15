@@ -50,6 +50,7 @@ function CountryViz () {
             const myChart = echarts.init(mapDivRef.current);
             const myTopChart = echarts.init(topBarDivRef.current);
             const sortedData = mapData.sort((a, b) => a.value - b.value);
+            const filteredSortedData = sortedData.filter(item => item.name !== 'London');
             const option = {
                 title: {
                     text: 'UK ' + columnName,
@@ -119,7 +120,7 @@ function CountryViz () {
 
             const barTopOption = {
                 title: {
-                    text: 'UK ' + columnName + ' Top 20',
+                    text: 'UK ' + columnName + ' Top 20 without London',
                     subtext: 'Creative Nation open data',
                     sublink: 'https://www.nesta.org.uk/blog/creative-nation-open-data/',
                     left: 'center'
@@ -132,7 +133,7 @@ function CountryViz () {
                     axisLabel: {
                         rotate: 0
                     },
-                    data: sortedData.slice(sortedData.length - 20, sortedData.length).map(function (item) {
+                    data: filteredSortedData.slice(sortedData.length - 20, sortedData.length).map(function (item) {
                         return item.name;
                     })
                 },
@@ -140,7 +141,7 @@ function CountryViz () {
                 series: {
                     type: 'bar',
                     id: 'population',
-                    data: sortedData.slice(sortedData.length - 20, sortedData.length).map(function (item) {
+                    data: filteredSortedData.slice(sortedData.length - 20, sortedData.length).map(function (item) {
                         return item.value;
                     }),
                     universalTransition: true
@@ -209,14 +210,9 @@ function CountryViz () {
                         Creative industry employment and business activities are highly concentrated in a few areas. In 2015-2016, 53% of creative industry employment and 44% of business activities were concentrated in the top five TTWAs.
                         Major cities such as London, Manchester, Bristol, Edinburgh, and Cardiff are hubs of creative industry activities.
                     </p>
-                    <h2>Differences Among Sub-sectors:</h2>
+                    <h2 style={{ marginTop: '130px' }}>Differences Among Sub-sectors:</h2>
                     <p>There are noticeable differences in the geographic distribution of various creative sub-sectors. For example, Advertising and marketing, and Media Creative Industries are more concentrated in large cities compared to IT and computer software services.
                         The concentration of IT, software, and computer services employment increased rapidly in London, whereas the concentration of creative employment in publishing decreased, reflecting the relative decline of large, established clusters like Peterborough.
-                    </p>
-                    <h2>Contribution to Local Economies:</h2>
-                    <p>
-                        The creative industries are significant drivers of local economic growth. Over 82% of TTWAs experienced growth in creative industries employment, and in 67% of TTWAs, the growth rate exceeded that of other sectors.
-                        The distribution of creative businesses within regions shows significant concentration patterns, although in some areas (such as the South East of England), the creative industries are more evenly distributed.
                     </p>
                 </div>
                 <div ref={topBarDivRef} style={{ width: '70%', height: '700px', display: 'inline-block' }} />

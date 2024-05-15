@@ -13,7 +13,7 @@ const Implementation = () => {
             <div style={{ display: 'inline-block', width: '60%', height: "100vh", backgroundColor: 'black' }}>
                 <div style={{ width: '80%', height: '80%', textAlign: 'left', marginLeft: '10%', marginTop: '10%', color: 'white' }}>
                     <h1 style={{ color: 'red' }}>
-                        Addressing UK's Regional Economic Imbalances through Creative Industries
+                        Addressing UK's Regional Economic Imbalances Through Creative Industries
                     </h1>
                     <p style={{ marginBottom: '20px' }}>
                         <span style={{ color: 'red', fontWeight: 'bold', }}>Economic Co-location Benefits: </span>

@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useRef } from 'react';
-import { Radio, Space, Divider, Button } from 'antd';
+import { Radio, Space, Divider, Button, Grid } from 'antd';
 import * as echarts from 'echarts';
 import axios from 'axios';
 
@@ -124,6 +124,14 @@ function CountryViz () {
                     subtext: 'Creative Nation open data',
                     sublink: 'https://www.nesta.org.uk/blog/creative-nation-open-data/',
                     left: 'center'
+                },
+                grid: {
+                    left: 240
+                },
+                tooltip: {
+                    trigger: 'item',
+                    showDelay: 0,
+                    transitionDuration: 0.2
                 },
                 xAxis: {
                     type: 'value'

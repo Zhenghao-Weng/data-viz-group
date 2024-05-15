@@ -24,7 +24,7 @@ const VideoHomePage = () => {
     useEffect(() => {
         const interval = setInterval(() => {
             setIndex(prev => (prev + 1) % words.length);
-        }, 3000); // Change word every 3 seconds
+        }, 1000);
 
         return () => clearInterval(interval);
     }, []);

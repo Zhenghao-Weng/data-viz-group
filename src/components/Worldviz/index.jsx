@@ -319,7 +319,7 @@ const Worldviz = () => {
                     open={popoverVisible}
                 />
             )}
-            <img src="/img/world_legend.png" alt="img" style={{ width: '400px', marginLeft: '-380px', marginTop: '490px', zIndex: '1000' }} />
+            <img src={process.env.PUBLIC_URL + "/img/world_legend.png"} alt="img" style={{ width: '400px', marginLeft: '-380px', marginTop: '490px', zIndex: '1000' }} />
             <span ref={pieChart} style={{ height: 500, width: '30%' }} />
             <Modal
                 open={modalVisible}

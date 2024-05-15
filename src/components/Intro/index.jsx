@@ -80,14 +80,14 @@ const Intro = () => {
                     <ParallaxLayer offset={0.25} speed={1.5} style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
                         <div style={{ width: '40%', height: '80vh', marginRight: '5%' }}>
                             <Image
-                                src="/img/story1.png"
+                                src={process.env.PUBLIC_URL + "/img/story1.png"}
                             />
                         </div>
                     </ParallaxLayer>
                     <ParallaxLayer offset={1.25} speed={1.5} style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
                         <div style={{ width: '40%', height: '80vh', marginRight: '5%' }}>
                             <Image
-                                src="/img/story2.png"
+                                src={process.env.PUBLIC_URL + "/img/story2.png"}
                             />
                         </div>
                     </ParallaxLayer>
@@ -121,7 +121,7 @@ const Intro = () => {
                     <ParallaxLayer offset={0} speed={1.5} style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
                         <div style={{ width: '40%', height: '80vh', marginRight: '5%' }}>
                             <Image
-                                src="/img/story3.jpg"
+                                src={process.env.PUBLIC_URL + "/img/story3.jpg"}
                             />
                             <div style={{ marginTop: '25px' }}>Figure 3: Levels and Changes in Creative Industries (2015 – 2016)</div>
                         </div>
@@ -130,7 +130,7 @@ const Intro = () => {
                         <div style={{ width: '40%', height: '50vh', marginRight: '5%' }}>
                             {/* <div ref={lineChartRef} style={{ width: '100%', height: '500px' }} /> */}
                             <Image
-                                src="/img/story5.png"
+                                src={process.env.PUBLIC_URL + "/img/story5.png"}
                             />
                             <div style={{ marginTop: '25px' }}>Figure 4: Export Trade in Creative Services (2010 - 2022)
                             </div>
@@ -144,7 +144,7 @@ const Intro = () => {
                     <ParallaxLayer sticky={{ start: 0, end: 3 }} style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-start' }}>
                         <div style={{ width: '40%', height: '50vh', marginLeft: '5%' }}>
                             <a target='_blank' href="https://assets.publishing.service.gov.uk/media/64898de2b32b9e000ca96712/Creative_Industries_Sector_Vision__accessible_version_.pdf" rel="noreferrer">
-                                <img alt='img' src="/img/story4.jpg" style={{ width: '650px' }} />
+                                <img alt='img' src={process.env.PUBLIC_URL + "/img/story4.jpg"} style={{ width: '650px' }} />
                             </a>
                             <div style={{ fontSize: '10px', color: 'grey', marginTop: '10px' }}>Click Image to access the report</div>
                         </div>

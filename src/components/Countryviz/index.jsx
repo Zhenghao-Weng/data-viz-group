@@ -23,7 +23,7 @@ function CountryViz () {
     const fetchData = async () => {
         if (!detail || !creativeType) return;
 
-        const geojsonUrl = '/data/UK.json';
+        const geojsonUrl = process.env.PUBLIC_URL + '/data/UK.json';
         try {
             const response = await axios.get(geojsonUrl);
             echarts.registerMap('UK', response.data);

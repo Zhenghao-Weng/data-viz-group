@@ -10,21 +10,21 @@ const OurTeam = () => (
             <Card
                 hoverable
                 style={{ width: 260 }}
-                cover={<img alt="Member 1" src="/img/lyc.jpg" />}
+                cover={<img alt="Member 1" src={process.env.PUBLIC_URL + "/img/lyc.jpg"} />}
             >
                 <Meta title="Yicong Li" description="Greek Goddess 1" />
             </Card>
             <Card
                 hoverable
                 style={{ width: 260 }}
-                cover={<img alt="Member 2" src="/img/xrc.jpg" />}
+                cover={<img alt="Member 2" src={process.env.PUBLIC_URL + "/img/xrc.jpg"} />}
             >
                 <Meta title="Ruici Xia" description="Greek Mask 2" />
             </Card>
             <Card
                 hoverable
                 style={{ width: 260 }}
-                cover={<img alt="Member 3" src="/img/wzh.png" />}
+                cover={<img alt="Member 3" src={process.env.PUBLIC_URL + "/img/wzh.png"} />}
             >
                 <Meta title="Zhenghao Weng" description="Greek Mask 3" />
             </Card>

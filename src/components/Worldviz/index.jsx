@@ -169,7 +169,7 @@ const Worldviz = () => {
             }
         };
 
-        axios.get('/data/country_export.geojson')
+        axios.get(process.env.PUBLIC_URL + '/data/country_export.geojson')
             .then(response => {
                 const geojsonData = response.data;
                 if (map.isStyleLoaded()) {

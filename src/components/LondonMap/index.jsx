@@ -23,7 +23,7 @@ const LondonMap = () => {
         map.on('load', () => {
             map.addSource('highlighted-areas', {
                 type: 'geojson',
-                data: '/data/wgs84_CEZ.geojson'
+                data: process.env.PUBLIC_URL + '/data/wgs84_CEZ.geojson'
             });
 
             map.addLayer({
@@ -39,7 +39,7 @@ const LondonMap = () => {
             map.addSource('cinemas', {
                 type: 'geojson',
                 // data: 'https://raw.githubusercontent.com/ruicixia1/Group-Mini-Project/main/Cinema_s.geojson',
-                data: '/data/' + type + '_s.geojson',
+                data: process.env.PUBLIC_URL + '/data/' + type + '_s.geojson',
                 cluster: true,
                 clusterMaxZoom: 14,
                 clusterRadius: 50

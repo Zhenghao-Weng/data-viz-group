@@ -1,7 +1,7 @@
 {
   "name": "d-viz",
   "version": "0.1.0",
-  "homepage": "https://zhenghao-weng.github.io/data-viz-group",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^5.3.7",

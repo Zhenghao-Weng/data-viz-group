@@ -29,6 +29,7 @@ const Worldviz = () => {
             color: colors[Math.floor(index / sortedPieData.length * colors.length)]
         }
     }));
+    const total = enhancedPieData.reduce((sum, item) => sum + item.value, 0);
 
 
 
@@ -229,7 +230,12 @@ const Worldviz = () => {
             const myChart = echarts.init(pieChart.current);
             const option = {
                 tooltip: {
-                    trigger: 'item'
+                    trigger: 'item',
+                    formatter: function (params) {
+                        let percent = ((params.value / total) * 100).toFixed(2);
+                        let originalFormatter = `${params.marker} ${params.name} : ${params.value}`;
+                        return `${originalFormatter}<br/>Percentage of Total: ${percent}%`;
+                    }
                 },
                 legend: {
                     top: '0%',
@@ -247,13 +253,14 @@ const Worldviz = () => {
                         },
                         label: {
                             show: false,
-                            position: 'center'
+                            position: 'center',
+
                         },
                         emphasis: {
                             label: {
                                 show: true,
                                 fontSize: 40,
-                                fontWeight: 'bold'
+                                fontWeight: 'bold',
                             },
                             itemStyle: {
                                 shadowBlur: 20,

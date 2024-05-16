@@ -140,8 +140,8 @@ const Intro = () => {
             </div>
 
             <div className='scroll2'>
-                <Parallax pages={3} style={{ width: '100%', height: '100%', scrollbarWidth: 'none' }}>
-                    <ParallaxLayer sticky={{ start: 0, end: 3 }} style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-start' }}>
+                <Parallax pages={2} style={{ width: '100%', height: '100%', scrollbarWidth: 'none' }}>
+                    <ParallaxLayer sticky={{ start: 0, end: 2 }} style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-start' }}>
                         <div style={{ width: '40%', height: '50vh', marginLeft: '5%' }}>
                             <a target='_blank' href="https://assets.publishing.service.gov.uk/media/64898de2b32b9e000ca96712/Creative_Industries_Sector_Vision__accessible_version_.pdf" rel="noreferrer">
                                 <img alt='img' src={process.env.PUBLIC_URL + "/img/story4.jpg"} style={{ width: '650px' }} />
@@ -167,7 +167,7 @@ const Intro = () => {
                         </div>
 
                     </ParallaxLayer>
-                    <ParallaxLayer offset={1} speed={1.5} style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
+                    <ParallaxLayer offset={0.9} speed={1.5} style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
                         <div style={{
                             width: '34%',
                             height: '60vh',

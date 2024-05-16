@@ -70,6 +70,9 @@ const Londonviz = () => {
                 name: 'London creative industries',
                 type: 'line',
                 data: [468, 499, 515, 535, 582, 587, 624, 646, 699, 691, 763, 795],
+                itemStyle: {
+                    color: '#fdae61'
+                },
                 endLabel: {
                     show: true,
                     formatter: function (params) {
@@ -81,6 +84,9 @@ const Londonviz = () => {
                 name: 'London non-creative industries',
                 type: 'line',
                 data: [3884, 3944, 4043, 4154, 4299, 4467, 4591, 4639, 4665, 4677, 4696, 4582],
+                itemStyle: {
+                    color: '#d73027'
+                },
                 endLabel: {
                     show: true,
                     formatter: function (params) {
@@ -92,6 +98,9 @@ const Londonviz = () => {
                 name: 'London all industries total',
                 type: 'line',
                 data: [4365, 4460, 4580, 4702, 4904, 5071, 5226, 5297, 5381, 5390, 5476, 5394],
+                itemStyle: {
+                    color: '#67000d'
+                },
                 endLabel: {
                     show: true,
                     formatter: function (params) {
@@ -103,6 +112,9 @@ const Londonviz = () => {
                 name: 'All other regions creative industries',
                 type: 'line',
                 data: [1054, 1063, 1170, 1182, 1230, 1291, 1335, 1350, 1339, 1408, 1456, 1537],
+                itemStyle: {
+                    color: '#abd9e9'
+                },
                 endLabel: {
                     show: true,
                     formatter: function (params) {
@@ -114,6 +126,9 @@ const Londonviz = () => {
                 name: 'All other region non-creative industries',
                 type: 'line',
                 data: [24400, 24477, 24349, 24682, 25121, 25579, 25667, 26011, 26183, 26515, 26227, 26069],
+                itemStyle: {
+                    color: '#74add1'
+                },
                 endLabel: {
                     show: true,
                     formatter: function (params) {
@@ -125,6 +140,9 @@ const Londonviz = () => {
                 name: 'All other region all industries total',
                 type: 'line',
                 data: [25528, 25614, 25628, 25937, 26434, 26955, 27121, 27490, 27686, 28031, 27769, 27688],
+                itemStyle: {
+                    color: '#313695'
+                },
                 endLabel: {
                     show: true,
                     formatter: function (params) {
@@ -166,6 +184,9 @@ const Londonviz = () => {
                         name: creativeType + ' - London',
                         type: 'line',
                         data: data.find(item => item.name === creativeType + ' - London')?.value,
+                        itemStyle: {
+                            color: '#d73027'
+                        },
                     },
                     {
                         name: creativeType + ' - All other regions in UK',
@@ -173,6 +194,9 @@ const Londonviz = () => {
                         symbol: 'triangle',
                         symbolSize: 8,
                         data: data.find(item => item.name === creativeType + ' - All other regions in UK')?.value,
+                        itemStyle: {
+                            color: '#313695'
+                        },
                     }]
                 }, true)
             }

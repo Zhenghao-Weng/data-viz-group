@@ -35,7 +35,8 @@ const Londonviz = () => {
     const option = {
         animationDuration: 6000,
         title: {
-            text: 'Total Number of Jobs by Industries (2010 - 2021)'
+            text: 'Total Number of Jobs by Industries (2010 - 2021)',
+            left: 'center'
         },
         tooltip: {
             trigger: 'axis',
@@ -160,8 +161,8 @@ const Londonviz = () => {
                 myChart2.setOption({
                     animationDuration: 6000,
                     title: {
-                        text: 'Chart 2 - Job Growth by Creative Industries Group'
-
+                        text: 'Job Growth by Creative Industries Group',
+                        left: 'center'
                     },
                     tooltip: {
                         trigger: 'axis'
@@ -239,7 +240,7 @@ const Londonviz = () => {
 
     return (
         <div>
-            <Button onClick={replayAnima} type='primary' icon={<RedoOutlined />} style={{ marginLeft: '-620px', zIndex: '999' }}>Replay</Button>
+            <Button onClick={replayAnima} type='primary' icon={<RedoOutlined />} style={{ marginLeft: '300px', zIndex: '999' }}>Replay</Button>
             <div style={{ display: 'flex', alignItems: 'flex-start', marginTop: '-28px' }}>
                 <div ref={chartRef} style={{ display: 'inline-block', width: '70%', height: '600px', marginLeft: '10px' }} />
                 <div style={{ display: 'inline-block', width: '25%', height: '600px', backgroundColor: 'black' }}>
@@ -255,25 +256,25 @@ const Londonviz = () => {
             <div style={{ display: 'flex', alignItems: 'flex-start' }}>
                 <div ref={chart2Ref} style={{ display: 'inline-block', width: '70%', height: '600px', marginTop: '50px', marginLeft: '10px' }} />
                 <div style={{ width: '25%', display: 'inline-block', textAlign: 'left' }}>
-                    <div style={{ height: '300px', backgroundColor: "black", textAlign: 'left', color: 'white', paddingTop: '30%' }}>
-                        <h2 style={{ width: '80%', marginLeft: '10%' }}>
+                    <div style={{ backgroundColor: "black", textAlign: 'left', color: 'white', paddingTop: '20%', paddingLeft: "10%", paddingBottom: '90px' }}>
+                        <h2 style={{ width: '80%' }}>
                             Chart 2: Job Growth by Creative Industries Group
                         </h2>
-                        <p style={{ width: '80%', marginLeft: '10%' }}>
+                        <p style={{ width: '80%', marginBottom: '90px' }}>
                             This chart represents detailed job numbers (in thousands) across various creative industry groups from 2010 to 2021 in London.
                         </p>
+                        <Radio.Group onChange={changeType} value={creativeType} buttonStyle="solid">
+                            <Space direction="vertical">
+                                <Radio style={{ color: 'white' }} value={'Advertising and marketing'}>Advertising and marketing</Radio>
+                                <Radio style={{ color: 'white' }} value={'Architecture'}>Architecture</Radio>
+                                <Radio style={{ color: 'white' }} value={'Design: product, graphic and fashion design'}>Design: product, graphic and fashion design</Radio>
+                                <Radio style={{ color: 'white' }} value={'Film, TV, video, radio and photography'}>Film, TV, video, radio and photography</Radio>
+                                <Radio style={{ color: 'white' }} value={'IT, software and computer services'}>IT, software and computer services</Radio>
+                                <Radio style={{ color: 'white' }} value={'Music, performing and visual arts'}>Music, performing and visual arts</Radio>
+                                <Radio style={{ color: 'white' }} value={'Publishing'}>Publishing</Radio>
+                            </Space>
+                        </Radio.Group>
                     </div>
-                    <Radio.Group onChange={changeType} value={creativeType} buttonStyle="solid">
-                        <Space direction="vertical">
-                            <Radio value={'Advertising and marketing'}>Advertising and marketing</Radio>
-                            <Radio value={'Architecture'}>Architecture</Radio>
-                            <Radio value={'Design: product, graphic and fashion design'}>Design: product, graphic and fashion design</Radio>
-                            <Radio value={'Film, TV, video, radio and photography'}>Film, TV, video, radio and photography</Radio>
-                            <Radio value={'IT, software and computer services'}>IT, software and computer services</Radio>
-                            <Radio value={'Music, performing and visual arts'}>Music, performing and visual arts</Radio>
-                            <Radio value={'Publishing'}>Publishing</Radio>
-                        </Space>
-                    </Radio.Group>
                 </div>
             </div>
         </div>

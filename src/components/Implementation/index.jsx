@@ -4,10 +4,12 @@ const Implementation = () => {
     return (
         <div style={{ marginTop: '50px', display: 'flex', alignItems: 'flex-start' }}>
             <div style={{ display: 'inline-block', width: '40%', height: "100vh" }}>
-                <div style={{ width: '60%', height: '60%', textAlign: 'left', marginLeft: '20%', marginTop: '30%' }}>
-                    <h1 style={{ marginBottom: '100px', fontSize: '45px' }}>Implementations</h1>
-                    <p style={{ fontSize: '20px' }}>The UK’s creative industries are more geographically concentrated than other sectors, and the trend seems to be towards more rather than less concentration, although the creative industries are not alone in this regard. The fact that we find strong creative concentration within regions too raises the possibility of developing regional creative champions, but also the risk of replicating the same creative inequalities inside regions that we see between them.
-                    </p>
+                <div style={{ width: '60%', height: '60%', textAlign: 'left', marginLeft: '20%', marginTop: '15%' }}>
+                    <h1 style={{ marginBottom: '60px', fontSize: '45px' }}>Implementations</h1>
+                    <ul>
+                        <li style={{ fontSize: '20px' }}>The UK's creative industries are more geographically concentrated than other sectors, and the trend seems to be towards more rather than less concentration, although the creative industries are not alone in this regard.</li>
+                        <li style={{ fontSize: '20px', marginTop: '60px' }}>The fact that we find strong creative concentration within regions too raises the possibility of developing regional creative champions, but also the risk of replicating the same creative inequalities inside regions that we see between them.</li>
+                    </ul>
                 </div>
             </div>
             <div style={{ display: 'inline-block', width: '60%', height: "100vh", backgroundColor: 'black' }}>

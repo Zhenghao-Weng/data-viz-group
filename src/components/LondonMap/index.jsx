@@ -152,7 +152,7 @@ const LondonMap = () => {
             <h1>London {type.toString().replace(/_/g, ' ')} Cluster Map
                 <Switch checked={showZones} checkedChildren="with Creative Enterprise zones" onChange={toggleZones} style={{ marginLeft: '10px' }} />
             </h1>
-            <Radio.Group onChange={changeType} buttonStyle="solid">
+            <Radio.Group defaultValue={"Cinema"} onChange={changeType} buttonStyle="solid">
                 <Radio.Button value={"Cinema"}>Cinema</Radio.Button>
                 <Radio.Button value={"Creative_Workspace"}>Creative Workspace</Radio.Button>
                 <Radio.Button value={"Dance"}>Dance</Radio.Button>

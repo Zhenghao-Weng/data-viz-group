@@ -1,6 +1,6 @@
 import React, { useRef, useEffect, useState } from 'react';
 import { CalendarOutlined } from '@ant-design/icons';
-import { Slider, Popover, Modal } from 'antd';
+import { Slider, Popover, Modal, ConfigProvider } from 'antd';
 import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import * as echarts from 'echarts';
@@ -213,9 +213,11 @@ const Worldviz = () => {
             container: mapContainer.current,
             style: 'mapbox://styles/lyc19991111/clw5gv1bc02o301qp0lsj1f80',
             center: [0, 0],
-            zoom: 1.2,
+            zoom: 1.0,
             renderWorldCopies: false,
-            projection: 'equirectangular'
+            projection: 'equirectangular',
+            minZoom: 1.0,
+            maxZoom: 10
         });
 
         newMap.on('load', () => {
@@ -303,19 +305,30 @@ const Worldviz = () => {
     }, [map]);
 
     return <div className='vizContainer'>
-        <h1>Global Export Trade in Creative Services</h1>
+        <h1>Global Export Trade in Creative Services <span style={{ fontSize: '15px' }}>(Unit: US dollar in million)</span></h1>
         <CalendarOutlined />
-        <Slider
-            defaultValue={2022}
-            min={2010}
-            max={2022}
-            onAfterChange={handleSliderChange}
-            tooltip={{
-                open: true,
-                zIndex: 999,
+        <ConfigProvider
+            theme={{
+                components: {
+                    Slider: {
+                        colorPrimary: 'red',
+                        algorithm: true,
+                    },
+                },
             }}
-            style={{ width: '80%', marginBottom: '20px' }}
-        />
+        >
+            <Slider
+                defaultValue={2022}
+                min={2010}
+                max={2022}
+                onAfterChange={handleSliderChange}
+                tooltip={{
+                    open: true,
+                    zIndex: 999,
+                }}
+                style={{ width: '80%', marginBottom: '20px' }}
+            />
+        </ConfigProvider>
         <div className="mapAndChartContainer">
             <span ref={mapContainer} className="mapContainer" />
             {popoverVisible && (
@@ -337,12 +350,26 @@ const Worldviz = () => {
                 <div ref={modalChartRef} style={{ width: '100%', height: '400px' }} />
             </Modal>
         </div>
-        <div style={{ width: '80%', textAlign: 'left' }}>
-            <h2>Global Trends in Creative Industry Exports:</h2>
-            <p>The data set, sourced from UNCTAD estimates based on the UNCTAD-WTO annual trade-in-services data set, provides insights into the global export trends of the creative industry from 2010 to 2022. On average, there has been a steady increase in the export values across various countries. The mean export value in 2010 was approximately $8,544.95 million, which grew to about $18,680.25 million by 2022. This indicates a significant global expansion in the creative industry's export market. The maximum export value in 2022 reached $244,344 million, highlighting a substantial concentration of export activity in leading countries. The overall trend suggests robust growth and an increasing contribution of the creative industry to the global economy.</p>
-            <h2>United Kingdom's Creative Industry Export Trends:</h2>
-            <p>Focusing on the United Kingdom, the data reveals a consistent upward trend in export values from 2010 to 2022. The UK's export value in 2010 was $35,885 million, which rose to $86,952 million by 2022. This represents a significant growth over the period. The growth rate varied across the years, with notable increases of 25.44% in 2021 and 15.52% in 2017. The overall growth rate for the UK was robust, reflecting the country's strengthening position in the global creative industry market. This solid growth underscores the UK's significant and expanding role in the global creative industry.</p>
+        <div style={{ width: '84%' }}>
+            <div style={{ width: '60%', float: 'left', textAlign: 'left' }}>
+                <h2>Global Trends in Creative Industry Exports:</h2>
+                <ul>
+                    <li>The data set, sourced from UNCTAD estimates based on the UNCTAD-WTO annual trade-in-services data set, provides insights into the global export trends of the creative industry from 2010 to 2022.</li>
+                    <li>On average, there has been a steady increase in the export values across various countries. The mean export value in 2010 was approximately $8,544.95 million, which grew to about $18,680.25 million by 2022. This indicates a significant global expansion in the creative industry's export market.</li>
+                    <li>The maximum export value in 2022 reached $244,344 million, highlighting a substantial concentration of export activity in leading countries.</li>
+                    <li>The overall trend suggests robust growth and an increasing contribution of the creative industry to the global economy.</li>
+                </ul>
+            </div>
+            <div style={{ width: '34%', float: 'right', textAlign: 'left' }}>
+                <h2>UK's Creative Industry Export Trends:</h2>
+                <ul>
+                    <li>Focusing on the United Kingdom, the data reveals a consistent upward trend in export values from 2010 to 2022. </li>
+                    <li>The UK's export value in 2010 was $35,885 million, which rose to $86,952 million by 2022. This represents a significant growth over the period.</li>
+                    <li>The overall growth rate for the UK was robust, reflecting the country's strengthening position in the global creative industry market. This solid growth underscores the UK's significant and expanding role in the global creative industry.</li>
+                </ul>
+            </div>
         </div>
+
     </div>
 };
 

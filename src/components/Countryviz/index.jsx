@@ -64,7 +64,8 @@ function CountryViz () {
                     transitionDuration: 0.2
                 },
                 visualMap: {
-                    right: '5%',
+                    right: '20%',
+                    top: '70%',
                     min: 10,
                     max: 10000,
                     text: ['High', 'Low'],
@@ -213,15 +214,20 @@ function CountryViz () {
             </div>
             <div style={{ width: '100%', display: 'flex', alignItems: 'flex-start' }}>
                 <div style={{ textAlign: 'left', width: '30%', display: 'inline-block', marginLeft: '100px' }}>
-                    <h2>Geographic Concentration of Creative Industries:</h2>
-                    <p>
-                        Creative industry employment and business activities are highly concentrated in a few areas. In 2015-2016, 53% of creative industry employment and 44% of business activities were concentrated in the top five TTWAs.
-                        Major cities such as London, Manchester, Bristol, Edinburgh, and Cardiff are hubs of creative industry activities.
-                    </p>
-                    <h2 style={{ marginTop: '130px' }}>Differences Among Sub-sectors:</h2>
-                    <p>There are noticeable differences in the geographic distribution of various creative sub-sectors. For example, Advertising and marketing, and Media Creative Industries are more concentrated in large cities compared to IT and computer software services.
-                        The concentration of IT, software, and computer services employment increased rapidly in London, whereas the concentration of creative employment in publishing decreased, reflecting the relative decline of large, established clusters like Peterborough.
-                    </p>
+                    <h2>Geographic Concentration of Creative Industries</h2>
+                    <ul>
+                        <li>Creative industry employment and business activities are highly concentrated in a few areas.</li>
+                        <li>Major cities such as London, Manchester, Bristol, Edinburgh, and Cardiff are hubs of these activities.</li>
+                    </ul>
+                    <h2 style={{ marginTop: '50px' }}>Differences Among Sub-sectors</h2>
+                    <ul>
+                        <li>There are noticeable differences in the geographic distribution of various creative sub-sectors.</li>
+                        <li>The concentration of IT-related employment increased rapidly in London, whereas the concentration of traditional publishing decreased, reflecting the relative decline of large, established clusters like Peterborough.</li>
+                    </ul>
+                    <h2 style={{ marginTop: '50px' }}>Contribution to Local Economies</h2>
+                    <ul>
+                        <li>The distribution of creative businesses within regions shows significant concentration patterns. This pattern reflects the economic contribution of creative industries in different regions.</li>
+                    </ul>
                 </div>
                 <div ref={topBarDivRef} style={{ width: '70%', height: '700px', display: 'inline-block' }} />
             </div>

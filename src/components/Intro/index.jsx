@@ -82,6 +82,8 @@ const Intro = () => {
                             <Image
                                 src={process.env.PUBLIC_URL + "/img/story1.png"}
                             />
+                            <div style={{ marginTop: '25px' }}>Figure 1: Distribution of the creative industries employment (2015 - 2016)</div>
+                            <div style={{ fontSize: '12px', marginTop: '10px' }}>( Source: written by self )</div>
                         </div>
                     </ParallaxLayer>
                     <ParallaxLayer offset={1.25} speed={1.5} style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
@@ -89,6 +91,8 @@ const Intro = () => {
                             <Image
                                 src={process.env.PUBLIC_URL + "/img/story2.png"}
                             />
+                            <div style={{ marginTop: '25px' }}>Figure 2: Distribution of the creative industries businesses (2015 - 2016)</div>
+                            <div style={{ fontSize: '12px', marginTop: '10px' }}>( Source: written by self )</div>
                         </div>
                     </ParallaxLayer>
                 </Parallax>
@@ -121,9 +125,10 @@ const Intro = () => {
                     <ParallaxLayer offset={0} speed={1.5} style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
                         <div style={{ width: '40%', height: '80vh', marginRight: '5%' }}>
                             <Image
-                                src={process.env.PUBLIC_URL + "/img/story3.jpg"}
+                                src={process.env.PUBLIC_URL + "/img/story3.png"}
                             />
                             <div style={{ marginTop: '25px' }}>Figure 3: Levels and Changes in Creative Industries (2015 – 2016)</div>
+                            <div style={{ fontSize: '12px', marginTop: '10px' }}>( Source: Nesta. (2018). Creative Nation: How the creative industries are powering the UK's nations and regions. Retrieved from https://www.nesta.org.uk/report/creative-nation/. )</div>
                         </div>
                     </ParallaxLayer>
                     <ParallaxLayer offset={1} speed={1.5} style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
@@ -132,8 +137,8 @@ const Intro = () => {
                             <Image
                                 src={process.env.PUBLIC_URL + "/img/story5.png"}
                             />
-                            <div style={{ marginTop: '25px' }}>Figure 4: Export Trade in Creative Services (2010 - 2022)
-                            </div>
+                            <div style={{ marginTop: '25px' }}>Figure 4: Export Trade in Creative Services (2010 - 2022)</div>
+                            <div style={{ fontSize: '12px', marginTop: '10px' }}>( Source: written by self )</div>
                         </div>
                     </ParallaxLayer>
                 </Parallax>
@@ -194,7 +199,7 @@ const Intro = () => {
                             <div style={{
                                 fontSize: '16px',
                                 fontFamily: 'Helvetica',
-                            }}>By 2030, we want to unlock the potential for growth in creative clusters across the UK and to grow opportunities for creative businesses.8 Our objectives are:
+                            }}>By 2030, we want to unlock the potential for growth in creative clusters across the UK and to grow opportunities for creative businesses. Our objectives are:
                             </div>
                             <div style={{
                                 fontSize: '16px',
@@ -222,7 +227,7 @@ const Intro = () => {
                             <div style={{
                                 fontSize: '16px',
                                 fontFamily: 'Helvetica',
-                            }}>By 2030, we want to ensure our creative workforce embodies the dynamism and talent of the whole of the UK, while addressing skills gaps and shortages.9 Our objectives are:
+                            }}>By 2030, we want to ensure our creative workforce embodies the dynamism and talent of the whole of the UK, while addressing skills gaps and shortages. Our objectives are:
                             </div>
                             <div style={{
                                 fontSize: '16px',
